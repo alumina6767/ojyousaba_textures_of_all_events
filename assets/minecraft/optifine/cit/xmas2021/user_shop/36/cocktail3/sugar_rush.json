@@ -1,0 +1,9 @@
+{
+    "parent": "./mercryblast",
+    "textures": {
+        "0": "./tate2",
+        "1": "./drink_sugar",
+        "2": "./futi3",
+        "particle": "./tate2"
+    }
+}

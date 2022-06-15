@@ -1,0 +1,7 @@
+{
+    "parent": "./normal_tamago",
+    "textures": {
+        "0": "./easter_egg_5",
+        "particle": "./easter_egg_5"
+    }
+}

@@ -1,0 +1,22 @@
+{
+	"parent": "./glitchpop_axe_bb",
+    "textures": {
+        "0": "./glipo_1",
+        "1": "./parpule",
+        "3": "./glipo_3",
+        "4": "./asi4",
+        "7": "./kuro",
+        "8": "./asi3",
+        "9": "./kin",
+        "10": "./part_2",
+        "12": "./gli8",
+        "13": "./gli9",
+        "14": "./gli8_b",
+        "15": "./gli9_b",
+        "16": "./gli11",
+        "17": "./gli10_r",
+        "18": "./gli10_m",
+        "19": "./gli11_r",
+        "particle": "./glipo_1"
+    }
+}

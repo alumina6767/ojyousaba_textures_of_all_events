@@ -1,0 +1,145 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./kimotara",
+		"particle": "./kimotara"
+	},
+	"elements": [
+		{
+			"name": "kimotara_0",
+			"from": [2, 0, 0],
+			"to": [14, 1, 14],
+			"faces": {
+				"north": {"uv": [14, 0, 2, 1], "texture": "#0"},
+				"east": {"uv": [13, 0, 14, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2, 13, 14, 14], "texture": "#0"},
+				"west": {"uv": [2, 0, 3, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2, 0, 14, 14], "texture": "#0"},
+				"down": {"uv": [2, 14, 14, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kimotara_1",
+			"from": [1, 0, 1],
+			"to": [2, 1, 14],
+			"faces": {
+				"north": {"uv": [2, 1, 1, 2], "texture": "#0"},
+				"east": {"uv": [1, 1, 2, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [1, 13, 2, 14], "texture": "#0"},
+				"west": {"uv": [1, 1, 2, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [1, 1, 2, 14], "texture": "#0"},
+				"down": {"uv": [1, 14, 2, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kimotara_2",
+			"from": [14, 0, 1],
+			"to": [15, 1, 13],
+			"faces": {
+				"north": {"uv": [15, 1, 14, 2], "texture": "#0"},
+				"east": {"uv": [14, 1, 15, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [14, 12, 15, 13], "texture": "#0"},
+				"west": {"uv": [14, 1, 15, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [14, 1, 15, 13], "texture": "#0"},
+				"down": {"uv": [14, 13, 15, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kimotara_3",
+			"from": [0, 0, 2],
+			"to": [1, 1, 13],
+			"faces": {
+				"north": {"uv": [1, 2, 0, 3], "texture": "#0"},
+				"east": {"uv": [0, 2, 1, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 12, 1, 13], "texture": "#0"},
+				"west": {"uv": [0, 2, 1, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 2, 1, 13], "texture": "#0"},
+				"down": {"uv": [0, 13, 1, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kimotara_4",
+			"from": [15, 0, 2],
+			"to": [16, 1, 12],
+			"faces": {
+				"north": {"uv": [16, 2, 15, 3], "texture": "#0"},
+				"east": {"uv": [15, 2, 16, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [15, 11, 16, 12], "texture": "#0"},
+				"west": {"uv": [15, 2, 16, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [15, 2, 16, 12], "texture": "#0"},
+				"down": {"uv": [15, 12, 16, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kimotara_5",
+			"from": [2, 0, 14],
+			"to": [13, 1, 15],
+			"faces": {
+				"north": {"uv": [13, 14, 2, 15], "texture": "#0"},
+				"east": {"uv": [12, 14, 13, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2, 14, 13, 15], "texture": "#0"},
+				"west": {"uv": [2, 14, 3, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2, 14, 13, 15], "texture": "#0"},
+				"down": {"uv": [2, 15, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "kimotara_6",
+			"from": [3, 0, 15],
+			"to": [12, 1, 16],
+			"faces": {
+				"north": {"uv": [12, 15, 3, 16], "texture": "#0"},
+				"east": {"uv": [11, 15, 12, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 15, 12, 16], "texture": "#0"},
+				"west": {"uv": [3, 15, 4, 16], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3, 15, 12, 16], "texture": "#0"},
+				"down": {"uv": [3, 16, 12, 15], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [149, 0, 0],
+			"translation": [7, -9.5, 18.75],
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [149, 0, -180],
+			"translation": [7, -0.25, 13.5],
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"firstperson_righthand": {
+			"rotation": [88, 0, 0],
+			"translation": [0.75, -3.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [88, 0, 0],
+			"translation": [0.75, -3.25, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 3.25, 2.75],
+			"scale": [0.51, 0.51, 0.51]
+		},
+		"gui": {
+			"rotation": [90, 0, 0]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, -1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 5.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "kimotara",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "./crv_spike",
+    "textures": {
+        "0": "./tate",
+        "1": "./drink_sup",
+        "3": "./futi2",
+        "particle": "./tate"
+    }
+}

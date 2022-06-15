@@ -1,0 +1,7 @@
+{
+    "parent": "./tamago",
+    "textures": {
+        "1": "./op_kashinomi",
+        "particle": "./op_kashinomi"
+    }
+}

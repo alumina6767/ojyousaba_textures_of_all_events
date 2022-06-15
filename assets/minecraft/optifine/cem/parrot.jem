@@ -1,0 +1,23 @@
+{
+	"textureSize": [16,16],
+	"shadowSize": 0.6,
+    "models":
+    [
+	      {
+            "id": "alu",
+		    "model": "alu2.jpm",
+		    "part": "head",
+		    "attach": true,
+			"invertAxis": "xy",
+			"translate": [0, -7, 0.5]
+	      },
+		  {
+            "id": "alu_feather",
+		    "model": "feather.jpm",
+		    "part": "body",
+		    "attach": true,
+			"invertAxis": "xy",
+			"translate": [0, -6, -2]
+	      }
+    ]
+}

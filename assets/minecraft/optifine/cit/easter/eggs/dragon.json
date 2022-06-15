@@ -1,0 +1,7 @@
+{
+    "parent": "./tamago",
+    "textures": {
+        "1": "./dragon",
+        "particle": "./dragon"
+    }
+}

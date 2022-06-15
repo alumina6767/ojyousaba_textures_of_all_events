@@ -1,0 +1,6 @@
+{
+    "parent": "./hige",
+    "textures": {
+        "0": "./hige_1"
+    }
+}

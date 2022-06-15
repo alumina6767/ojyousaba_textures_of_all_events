@@ -1,0 +1,7 @@
+{
+    "parent": "./normal_tamago",
+    "textures": {
+        "0": "./sweater",
+        "particle": "./sweater"
+    }
+}

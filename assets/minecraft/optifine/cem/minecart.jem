@@ -1,0 +1,12 @@
+{
+	"textureSize": [32,32],
+    "models":
+    [
+	      {
+            "id": "zabuton",
+		    "model": "zabuton.jpm",
+		    "part": "front",
+		    "attach": true
+	      }
+    ]
+}

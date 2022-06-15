@@ -1,0 +1,10 @@
+{
+    "parent": "./sun_cloud",
+    "textures": {
+        "0": "./tate8",
+        "1": "./drink_zen",
+        "3": "./futi8",
+        "4": "./leaf",
+        "particle": "./tate8"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "./usagihusen",
+    "textures": {
+        "1": "./lime",
+        "2": "./string",
+        "particle": "./lime"
+    }
+}

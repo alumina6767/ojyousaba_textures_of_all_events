@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "./milk_tea",
+        "layer1": "./milk_tea"
+    }
+}

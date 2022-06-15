@@ -1,0 +1,7 @@
+{
+    "credit": "Made by alumina6767",
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "./tamago_sand"
+    }
+}

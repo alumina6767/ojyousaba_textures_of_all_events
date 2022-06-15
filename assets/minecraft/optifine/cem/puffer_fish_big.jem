@@ -1,0 +1,12 @@
+{
+	"textureSize": [16,16],
+    "models":
+    [
+	      {
+            "id": "veil",
+		        "model": "big_veil.jpm",
+		        "part": "body",
+		        "attach": true
+	      }
+    ]
+}
