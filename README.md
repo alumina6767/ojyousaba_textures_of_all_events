@@ -5,6 +5,9 @@
 
 その他にもいろいろ入ってます。ユーザーが制作した非公式なリソースパックですのでなにか不都合があってもげんぴょんさんは関係ありません。
 
+## ダウンロードは？
+[こちら](https://github.com/alumina6767/ojyousaba_textures_of_all_events/releases/latest)から
+
 ## どんなテクスチャがあるの？
 テクスチャのリストは[こちら](https://docs.google.com/spreadsheets/d/1D3KZMCaSkLnLyjUG_q8NQQ3CfYGKhifaccQoVnQAHQo/edit?usp=sharing)で公開しています。
 心のこもった手作業でのリスト制作ですので間違いがいっぱいです。
