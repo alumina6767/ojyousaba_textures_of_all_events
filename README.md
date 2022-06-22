@@ -10,7 +10,7 @@
 ## ダウンロードは？
 [こちら](https://github.com/alumina6767/ojyousaba_textures_of_all_events/releases/latest)のAssetsの一番上のzipファイルから
 
-ファイルの中身をしっかり見たい人は`Source code (zip)`とか右上の`Code` > `Download` ZIPとかから
+ファイルの中身をしっかり見たい人は`Source code (zip)`とか右上の`Code` > `Download ZIP`とかから
 
 ## どんなテクスチャがあるの？
 テクスチャのリストは[こちら](https://docs.google.com/spreadsheets/d/1D3KZMCaSkLnLyjUG_q8NQQ3CfYGKhifaccQoVnQAHQo/edit?usp=sharing)で公開しています。
