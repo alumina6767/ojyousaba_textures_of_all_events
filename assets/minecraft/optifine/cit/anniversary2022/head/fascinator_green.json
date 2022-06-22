@@ -1,0 +1,7 @@
+{
+    "parent": "./fascinator",
+    "textures": {
+        "1": "./green",
+        "particle": "./green"
+    }
+}
