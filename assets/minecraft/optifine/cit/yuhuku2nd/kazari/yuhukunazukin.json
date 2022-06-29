@@ -1,7 +1,7 @@
 {
 	"credit": "Made by kouno78 with Blockbench",
 	"textures": {
-		"2": "./.minecraft_1.18.1_sodium/resourcepacks/裕福統合用/assets/minecraft/optifine/cit/yuhuku2nd/kazari/yuhukunazukin"
+		"2": "./yuhukunazukin"
 	},
 	"elements": [
 		{
