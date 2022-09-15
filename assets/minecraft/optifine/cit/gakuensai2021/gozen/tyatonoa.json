@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture_size": [64, 64],
+	"texture_size": [96, 96],
 	"textures": {
 		"0": "./tyato2",
 		"1": "./tyato3",
@@ -83,14 +83,14 @@
 			"from": [-12.25, 21.6, 0.75],
 			"to": [2.25, 21.8, 15.25],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#6"}
+				"up": {"uv": [0.5, 0.5, 15.5, 15.33333], "rotation": 270, "texture": "#6"}
 			}
 		},
 		{
 			"from": [-12.25, 21.8, 0.75],
 			"to": [2.25, 22, 15.25],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#8"}
+				"up": {"uv": [0.5, 0.5, 15.5, 15.5], "rotation": 270, "texture": "#8"}
 			}
 		},
 		{
