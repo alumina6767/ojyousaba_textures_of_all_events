@@ -72,7 +72,7 @@ if __name__ == '__main__':
     textures = []
     waste_path = len('./assets/minecraft/optifine/cit/')
     for properties in glob.glob('./**/cit/**/*.properties', recursive=True):
-        with open(properties,mode='r') as f:
+        with open(properties,mode='r',encoding='utf-8') as f:
             f_path = properties[waste_path:]
             print(f_path)
             textures.append(properties2dic(f, f_path))
@@ -82,5 +82,5 @@ if __name__ == '__main__':
     }
 
     # JSONとして保存
-    with open('result.json', mode='w') as f:
+    with open('result.json', mode='w',encoding='utf-8') as f:
         json.dump(d, f, ensure_ascii=False, indent=4)
