@@ -3156,18 +3156,6 @@
             "creators": [
                 "re_veil"
             ],
-            "image": "gakuensai/koushyou.mng",
-            "event": "第一回聖兎学園祭",
-            "category": "アクセサリー",
-            "item_ids": [
-                "flint"
-            ],
-            "name": "校章"
-        },
-        {
-            "creators": [
-                "re_veil"
-            ],
             "image": "gakuensai/marlboro_iceblast.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
@@ -4096,7 +4084,8 @@
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
             "item_ids": [
-                "redstone"
+                "redstone",
+                "snowball"
             ],
             "name": "10000ビッツ"
         },
@@ -4108,7 +4097,8 @@
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
             "item_ids": [
-                "emerald"
+                "emerald",
+                "snowball"
             ],
             "name": "1000ビッツ"
         },
@@ -4120,7 +4110,8 @@
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
             "item_ids": [
-                "purple_dye"
+                "purple_dye",
+                "snowball"
             ],
             "name": "100ビッツ"
         },
@@ -4132,7 +4123,8 @@
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
             "item_ids": [
-                "coal"
+                "coal",
+                "snowball"
             ],
             "name": "1ビッツ"
         },
@@ -4144,7 +4136,8 @@
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
             "item_ids": [
-                "lapis_lazuli"
+                "lapis_lazuli",
+                "snowball"
             ],
             "name": "5000ビッツ"
         },
@@ -5807,18 +5800,6 @@
             "creators": [
                 "kashinomi0384"
             ],
-            "image": "gakuensai2021/hapycury/popsicle_risu2.mng",
-            "event": "第二回聖兎学園祭",
-            "category": "食べ物",
-            "item_ids": [
-                "apple"
-            ],
-            "name": "りすのあいすきゃんでぃ2"
-        },
-        {
-            "creators": [
-                "kashinomi0384"
-            ],
             "image": "gakuensai2021/hapycury/popsicle_sry.mng",
             "event": "第二回聖兎学園祭",
             "category": "食べ物",
@@ -5985,18 +5966,6 @@
                 "chorus_fruit"
             ],
             "name": "もこもこくま"
-        },
-        {
-            "creators": [
-                "KING"
-            ],
-            "image": "gakuensai2021/king/beer2.mng",
-            "event": "第二回聖兎学園祭",
-            "category": "食べ物",
-            "item_ids": [
-                "chorus_fruit"
-            ],
-            "name": "もこもこくま２"
         },
         {
             "creators": [
@@ -7439,41 +7408,6 @@
                 "paper"
             ],
             "name": "おとしだま"
-        },
-        {
-            "image": "snowball/10000bits.mng",
-            "item_ids": [
-                "snowball"
-            ],
-            "name": "10000ビッツ"
-        },
-        {
-            "image": "snowball/1000bits.mng",
-            "item_ids": [
-                "snowball"
-            ],
-            "name": "1000ビッツ"
-        },
-        {
-            "image": "snowball/100bits.mng",
-            "item_ids": [
-                "snowball"
-            ],
-            "name": "100ビッツ"
-        },
-        {
-            "image": "snowball/1bits.mng",
-            "item_ids": [
-                "snowball"
-            ],
-            "name": "1ビッツ"
-        },
-        {
-            "image": "snowball/5000bits.mng",
-            "item_ids": [
-                "snowball"
-            ],
-            "name": "5000ビッツ"
         },
         {
             "image": "snowball/mochi.mng",
