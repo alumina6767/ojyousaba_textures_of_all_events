@@ -1,0 +1,61 @@
+{
+	"credit": "Made by re_veil with Blockbench",
+	"textures": {
+		"0": "./runba_box",
+		"particle": "./runba_box"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 4],
+			"to": [16, 19, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 10], "texture": "#0"},
+				"east": {"uv": [0, 0, 1.5, 10], "texture": "#0"},
+				"south": {"uv": [8, 0, 16, 10], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.5, 10], "texture": "#0"},
+				"up": {"uv": [0, 14, 8, 16], "texture": "#0"},
+				"down": {"uv": [6, 14, 7.75, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [36, 176, 2],
+			"translation": [0, 6.25, 2],
+			"scale": [0.83, 0.83, 0.83]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, -6, 0],
+			"translation": [4, -17.25, -0.25],
+			"scale": [0.73, 0.73, 0.73]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 151, 0],
+			"translation": [1.25, 0, 1.25],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 134, 0],
+			"translation": [1.25, 0, 1.25],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"ground": {
+			"translation": [0, 7.5, 0]
+		},
+		"gui": {
+			"rotation": [28, 157, 0],
+			"translation": [0, -1.25, 0],
+			"scale": [0.79, 0.79, 0.79]
+		},
+		"head": {
+			"translation": [0, -1.25, 1.5],
+			"scale": [1.14, 1.24, 1.33]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -20.25],
+			"scale": [2.48, 2.48, 2.48]
+		}
+	}
+}

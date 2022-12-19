@@ -1,0 +1,14 @@
+{
+	"credit": "Made by re_veil with Blockbench",
+	"models": [
+		{
+			"part": "head",
+			"id": "runba",
+			"attach": true,
+			"scale":"1.2",
+			"model":"runba.jpm",
+			"invertAxis": "xy",
+			"translate": [0, -9, 8]
+		}
+	]
+}
