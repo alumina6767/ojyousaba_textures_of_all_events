@@ -29,6 +29,9 @@ def properties2dic(f, f_path):
         elif p == 'note':
             d['note'] = v
 
+        elif p == 'relation':
+            d['relation'] = v
+
         elif p == 'nbt.display.Name':
             if 'regex' in ll:
                 d['name'] = ''.join(ll.split('=')[1:]).encode('ascii').decode('unicode-escape')

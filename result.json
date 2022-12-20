@@ -2935,6 +2935,7 @@
             "image": "gakuensai/aroeyoguruto.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "あろえ",
             "item_ids": [
                 "cookie"
             ],
@@ -2947,6 +2948,7 @@
             "image": "gakuensai/aroe_mini.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "あろえ",
             "item_ids": [
                 "flint"
             ],
@@ -2959,6 +2961,7 @@
             "image": "gakuensai/consome_mini.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "んそめ",
             "item_ids": [
                 "flint"
             ],
@@ -2971,6 +2974,7 @@
             "image": "gakuensai/curry.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "ぐちつぼ",
             "item_ids": [
                 "mushroom_stew"
             ],
@@ -2983,6 +2987,7 @@
             "image": "gakuensai/genpyon_mini.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "げんぴょん",
             "item_ids": [
                 "flint"
             ],
@@ -2995,6 +3000,7 @@
             "image": "gakuensai/genzincup.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "げんぴょん",
             "item_ids": [
                 "potion"
             ],
@@ -3010,6 +3016,7 @@
             "image": "gakuensai/genzincup_t.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "げんぴょん",
             "item_ids": [
                 "potion"
             ],
@@ -3025,6 +3032,7 @@
             "image": "gakuensai/gutitubo_mini.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ぐちつぼ",
             "item_ids": [
                 "flint"
             ],
@@ -3037,6 +3045,7 @@
             "image": "gakuensai/gutituice.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "ぐちつぼ",
             "item_ids": [
                 "cookie"
             ],
@@ -3049,6 +3058,7 @@
             "image": "gakuensai/kaeru.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ごんかね",
             "item_ids": [
                 "flint",
                 "sugar"
@@ -3062,6 +3072,7 @@
             "image": "gakuensai/kajiraretabits.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "こんべっくす",
             "item_ids": [
                 "dried_kelp"
             ],
@@ -3122,6 +3133,7 @@
             "image": "gakuensai/kanegon_mini.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ごんかね",
             "item_ids": [
                 "flint"
             ],
@@ -3134,6 +3146,7 @@
             "image": "gakuensai/kimotara.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "たらこ",
             "item_ids": [
                 "flint",
                 "sugar"
@@ -3147,6 +3160,7 @@
             "image": "gakuensai/kinnkachocolate.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "ごんかね",
             "item_ids": [
                 "carrot"
             ],
@@ -3159,6 +3173,7 @@
             "image": "gakuensai/marlboro_iceblast.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "げんぴょん",
             "item_ids": [
                 "carrot"
             ],
@@ -3171,6 +3186,7 @@
             "image": "gakuensai/mituya.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "こんべっくす",
             "item_ids": [
                 "potion"
             ],
@@ -3186,6 +3202,7 @@
             "image": "gakuensai/ramune.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "ぐちつぼ",
             "item_ids": [
                 "cooked_beef"
             ],
@@ -3213,6 +3230,7 @@
             "image": "gakuensai/sabo_steak.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "ぐちつぼ",
             "item_ids": [
                 "cooked_beef"
             ],
@@ -3225,6 +3243,7 @@
             "image": "gakuensai/syanpan.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "げんぴょん",
             "item_ids": [
                 "potion"
             ],
@@ -3240,6 +3259,7 @@
             "image": "gakuensai/syanpanglass.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "げんぴょん",
             "item_ids": [
                 "glass_bottle"
             ],
@@ -3252,6 +3272,7 @@
             "image": "gakuensai/syanpanglass_t.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "げんぴょん",
             "item_ids": [
                 "glass_bottle"
             ],
@@ -3264,6 +3285,7 @@
             "image": "gakuensai/syanpan_t.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "げんぴょん",
             "item_ids": [
                 "potion"
             ],
@@ -3279,6 +3301,7 @@
             "image": "gakuensai/tarakopasta.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "たらこ",
             "item_ids": [
                 "cooked_beef"
             ],
@@ -3291,6 +3314,7 @@
             "image": "gakuensai/tarako_mini.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "たらこ",
             "item_ids": [
                 "flint"
             ],
@@ -3302,6 +3326,7 @@
             ],
             "image": "gakuensai/touhyouken.mng",
             "event": "第一回聖兎学園祭",
+            "relation": "委員会",
             "item_ids": [
                 "written_book"
             ],
@@ -3317,6 +3342,7 @@
             "image": "gakuensai/toutoi.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "あろえ",
             "item_ids": [
                 "flint"
             ],
@@ -3329,6 +3355,7 @@
             "image": "gakuensai/umeneri.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "たらこ",
             "item_ids": [
                 "cooked_beef"
             ],
@@ -3341,6 +3368,7 @@
             "image": "gakuensai/yakipan_mini.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "やきぱん",
             "item_ids": [
                 "flint"
             ],
@@ -3353,6 +3381,7 @@
             "image": "gakuensai/yakisobapan.mng",
             "event": "第一回聖兎学園祭",
             "category": "たべもの",
+            "relation": "やきぱん",
             "item_ids": [
                 "cooked_rabbit"
             ],
@@ -3365,6 +3394,7 @@
             "image": "gakuensai/zaurusu.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "lapis_lazuli"
             ],
@@ -3392,6 +3422,7 @@
             "image": "gakuensai/zone_blue.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "こんべっくす",
             "item_ids": [
                 "potion"
             ],
@@ -3407,6 +3438,7 @@
             "image": "gakuensai/zone_red.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "こんべっくす",
             "item_ids": [
                 "potion"
             ],
@@ -3422,6 +3454,7 @@
             "image": "gakuensai/ajigamoto/ba-nyakauda.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3434,6 +3467,7 @@
             "image": "gakuensai/ajigamoto/consomeomen.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "味が素",
             "item_ids": [
                 "flint"
             ],
@@ -3458,6 +3492,7 @@
             "image": "gakuensai/ajigamoto/cramu.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3470,6 +3505,7 @@
             "image": "gakuensai/ajigamoto/hamu.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "carrot"
             ],
@@ -3482,6 +3518,7 @@
             "image": "gakuensai/ajigamoto/hamupie.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "pumpkin_pie"
             ],
@@ -3494,6 +3531,7 @@
             "image": "gakuensai/ajigamoto/himawarinotane.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "carrot"
             ],
@@ -3506,6 +3544,7 @@
             "image": "gakuensai/ajigamoto/jingisukan.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3518,6 +3557,7 @@
             "image": "gakuensai/ajigamoto/koncreamsoup.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3530,6 +3570,7 @@
             "image": "gakuensai/ajigamoto/kotyujan.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "carrot"
             ],
@@ -3542,6 +3583,7 @@
             "image": "gakuensai/ajigamoto/macaronmizuiro.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "carrot"
             ],
@@ -3554,6 +3596,7 @@
             "image": "gakuensai/ajigamoto/macaronmurasaki.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "carrot"
             ],
@@ -3566,6 +3609,7 @@
             "image": "gakuensai/ajigamoto/minesutoro-ne.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3578,6 +3622,7 @@
             "image": "gakuensai/ajigamoto/moonlight.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cookie"
             ],
@@ -3590,6 +3635,7 @@
             "image": "gakuensai/ajigamoto/nikujaga.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3602,6 +3648,7 @@
             "image": "gakuensai/ajigamoto/potage.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3614,6 +3661,7 @@
             "image": "gakuensai/ajigamoto/rooonciiino.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "flint"
             ],
@@ -3626,6 +3674,7 @@
             "image": "gakuensai/ajigamoto/tomato.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cooked_porkchop"
             ],
@@ -3638,6 +3687,7 @@
             "image": "gakuensai/ajigamoto/yakinattyan.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "potion"
             ],
@@ -3653,6 +3703,7 @@
             "image": "gakuensai/ajigamoto/yojicookie.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "味が素",
             "item_ids": [
                 "cookie"
             ],
@@ -3665,6 +3716,7 @@
             "image": "gakuensai/alumina_veil/candle.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "torch"
             ],
@@ -3677,6 +3729,7 @@
             "image": "gakuensai/alumina_veil/candle_.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "torch"
             ],
@@ -3689,6 +3742,7 @@
             "image": "gakuensai/alumina_veil/candle_black.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "torch"
             ],
@@ -3701,6 +3755,7 @@
             "image": "gakuensai/alumina_veil/fire.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "gunpowder"
             ],
@@ -3713,6 +3768,7 @@
             "image": "gakuensai/alumina_veil/fire_blue.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "gunpowder"
             ],
@@ -3725,6 +3781,7 @@
             "image": "gakuensai/alumina_veil/gyunyu.mng",
             "event": "第一回聖兎学園祭",
             "category": "食べ物",
+            "relation": "ユーザー",
             "item_ids": [
                 "milk_bucket"
             ],
@@ -3763,6 +3820,7 @@
             "image": "gakuensai/alumina_veil/medama_i.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "pufferfish_bucket"
             ],
@@ -3787,6 +3845,7 @@
             "image": "gakuensai/alumina_veil/strike.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "bone_meal"
             ],
@@ -3799,6 +3858,7 @@
             "image": "gakuensai/aozora/sunglasses.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "leather_helmet"
             ],
@@ -3811,6 +3871,7 @@
             "image": "gakuensai/aozora/sunglasses_helmet.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ユーザー",
             "item_ids": [
                 "leather_helmet"
             ],
@@ -4148,6 +4209,7 @@
             "image": "gakuensai/omen/aroe.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "あろえ",
             "item_ids": [
                 "bowl",
                 "flint"
@@ -4161,6 +4223,7 @@
             "image": "gakuensai/omen/consome.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "んそめ",
             "item_ids": [
                 "bowl",
                 "flint"
@@ -4174,6 +4237,7 @@
             "image": "gakuensai/omen/genpyon.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "げんぴょん",
             "item_ids": [
                 "bowl",
                 "flint"
@@ -4187,6 +4251,7 @@
             "image": "gakuensai/omen/gutitubo.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ぐちつぼ",
             "item_ids": [
                 "bowl",
                 "flint"
@@ -4200,6 +4265,7 @@
             "image": "gakuensai/omen/kanegon.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "ごんかね",
             "item_ids": [
                 "bowl",
                 "flint"
@@ -4213,6 +4279,7 @@
             "image": "gakuensai/omen/tarako.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "たらこ",
             "item_ids": [
                 "bowl",
                 "flint"
@@ -4226,6 +4293,7 @@
             "image": "gakuensai/omen/yakipan.mng",
             "event": "第一回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "やきぱん",
             "item_ids": [
                 "bowl",
                 "flint"
@@ -4239,6 +4307,7 @@
             "image": "gakuensai/yuuhuku/gi.mng",
             "event": "第一回聖兎学園祭",
             "category": "武器",
+            "relation": "裕福",
             "item_ids": [
                 "diamond_sword"
             ],
@@ -4251,6 +4320,7 @@
             "image": "gakuensai/yuuhuku/kugibatto1.mng",
             "event": "第一回聖兎学園祭",
             "category": "武器",
+            "relation": "裕福",
             "item_ids": [
                 "diamond_axe"
             ],
@@ -4275,6 +4345,7 @@
             "image": "gakuensai/yuuhuku/kugibatto2.mng",
             "event": "第一回聖兎学園祭",
             "category": "武器",
+            "relation": "裕福",
             "item_ids": [
                 "diamond_axe"
             ],
@@ -4299,6 +4370,7 @@
             "image": "gakuensai/yuuhuku/kugibatto3.mng",
             "event": "第一回聖兎学園祭",
             "category": "武器",
+            "relation": "裕福",
             "item_ids": [
                 "netherite_axe"
             ],
@@ -4323,6 +4395,7 @@
             "image": "gakuensai/yuuhuku/shin.mng",
             "event": "第一回聖兎学園祭",
             "category": "武器",
+            "relation": "裕福",
             "item_ids": [
                 "netherite_sword"
             ],
@@ -4367,6 +4440,7 @@
             "image": "gakuensai2021/kimotara_chan.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "たらこ",
             "item_ids": [
                 "flint"
             ],
@@ -4403,6 +4477,7 @@
             "image": "gakuensai2021/schlaf.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "げんぴょん",
             "item_ids": [
                 "bone"
             ],
@@ -6268,6 +6343,7 @@
             "image": "gakuensai2021/tyatonoa/ahoge.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "lapis_lazuli"
             ],
@@ -6280,6 +6356,7 @@
             "image": "gakuensai2021/tyatonoa/akkannbe.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "honeycomb"
             ],
@@ -6292,6 +6369,7 @@
             "image": "gakuensai2021/tyatonoa/combex.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "honeycomb"
             ],
@@ -6304,6 +6382,7 @@
             "image": "gakuensai2021/tyatonoa/cooked_zaurus.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "honeycomb"
             ],
@@ -6316,6 +6395,7 @@
             "image": "gakuensai2021/tyatonoa/cookie.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "cookie"
             ],
@@ -6328,6 +6408,7 @@
             "image": "gakuensai2021/tyatonoa/gomennne.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "lapis_lazuli"
             ],
@@ -6340,6 +6421,7 @@
             "image": "gakuensai2021/tyatonoa/hanya.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "lapis_lazuli"
             ],
@@ -6367,6 +6449,7 @@
             "image": "gakuensai2021/tyatonoa/maribex.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "melon_slice"
             ],
@@ -6379,6 +6462,7 @@
             "image": "gakuensai2021/tyatonoa/osuwari.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "lapis_lazuli"
             ],
@@ -6391,6 +6475,7 @@
             "image": "gakuensai2021/tyatonoa/pasocon.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "honeycomb"
             ],
@@ -6433,6 +6518,7 @@
             "image": "gakuensai2021/tyatonoa/sippo.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "prismarine_shard"
             ],
@@ -6445,6 +6531,7 @@
             "image": "gakuensai2021/tyatonoa/soppozaurus.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "lapis_lazuli"
             ],
@@ -6457,6 +6544,7 @@
             "image": "gakuensai2021/tyatonoa/syuu.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "しュう",
             "item_ids": [
                 "honeycomb"
             ],
@@ -6499,6 +6587,7 @@
             "image": "gakuensai2021/tyatonoa/zaurusame.mng",
             "event": "第二回聖兎学園祭",
             "category": "食べ物",
+            "relation": "こんべっくす",
             "item_ids": [
                 "melon_slice"
             ],
@@ -6511,6 +6600,7 @@
             "image": "gakuensai2021/tyatonoa/zaurusu.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "こんべっくす",
             "item_ids": [
                 "honeycomb"
             ],
@@ -6523,6 +6613,7 @@
             "image": "gakuensai2021/tyatonoa/zautozzo.mng",
             "event": "第二回聖兎学園祭",
             "category": "食べ物",
+            "relation": "こんべっくす",
             "item_ids": [
                 "melon_slice"
             ],
@@ -6643,6 +6734,7 @@
             "image": "gakuensai2021/urenokori/hamburg.mng",
             "event": "第二回聖兎学園祭",
             "category": "食べ物",
+            "relation": "たらこ",
             "item_ids": [
                 "golden_carrot"
             ],
@@ -6655,6 +6747,7 @@
             "image": "gakuensai2021/urenokori/omurice.mng",
             "event": "第二回聖兎学園祭",
             "category": "食べ物",
+            "relation": "たらこ",
             "item_ids": [
                 "golden_carrot"
             ],
@@ -6727,6 +6820,7 @@
             "image": "gakuensai2021/urenokori/taraname.mng",
             "event": "第二回聖兎学園祭",
             "category": "アクセサリー",
+            "relation": "たらこ",
             "item_ids": [
                 "stick"
             ],
@@ -6739,10 +6833,4116 @@
             "image": "gakuensai2021/yuuhuku/gutitu_bow.mng",
             "event": "第二回聖兎学園祭",
             "category": "武器",
+            "relation": "ぐちつぼ",
             "item_ids": [
                 "bow"
             ],
             "name": "ぐちつボウ"
+        },
+        {
+            "creators": [
+                "nachannnn"
+            ],
+            "image": "gakuensai2022/c/183jihanki/183jihanki.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "dirt"
+            ],
+            "name": "183cmの自販機"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bazzi/akabazzi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "赤バッジ"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bazzi/aobazzi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "青バッジ"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bazzi/kaobazzi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "1年バッジ"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bazzi/kibazzi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "黄バッジ"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bazzi/kurobazzi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "黒バッジ"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bazzi/nizibazzi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "虹バッジ"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bou/akabou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "小吉"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bou/aobou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "中吉"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bou/kibou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "吉"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bou/kurobou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "凶"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bou/nizibou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "ざう吉"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/bou/sirobou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "大吉"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/butyuu/butyuu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "cookie"
+            ],
+            "name": "ぶちゅクッキー"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/c/cnb/cnb.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "よじよじザウルス"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/hako/omikuzihako.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "おみくじ箱"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/home/pc.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "褒めろッ"
+        },
+        {
+            "creators": [
+                "mizuwosan029"
+            ],
+            "image": "gakuensai2022/c/mizuwo/atamanorizaurusu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "flint"
+            ],
+            "name": "頭乗りザウルス"
+        },
+        {
+            "creators": [
+                "mizuwosan029"
+            ],
+            "image": "gakuensai2022/c/mizuwo/pukapukazaurusu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "flint"
+            ],
+            "name": "ぷかぷかザウルス"
+        },
+        {
+            "creators": [
+                "nachannnn"
+            ],
+            "image": "gakuensai2022/c/na/combexomen.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "coal"
+            ],
+            "name": "Combexお面"
+        },
+        {
+            "creators": [
+                "nachannnn"
+            ],
+            "image": "gakuensai2022/c/na/kyoryuboshi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "flint"
+            ],
+            "name": "リアル恐竜帽子"
+        },
+        {
+            "creators": [
+                "mizuwosan029"
+            ],
+            "image": "gakuensai2022/c/onennne/onennnezaurusu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "flint"
+            ],
+            "name": "おねんねザウルス"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/pc/pc.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "bowl"
+            ],
+            "name": "水没pc"
+        },
+        {
+            "creators": [
+                "pyy_oisii"
+            ],
+            "image": "gakuensai2022/c/zaunui/zaunui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こんべっくす",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "おでかけざうぬい"
+        },
+        {
+            "creators": [
+                "do_nabe_"
+            ],
+            "image": "gakuensai2022/donabe/choco-banana/choko-banana.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "アヒル印のチョコバナナ"
+        },
+        {
+            "creators": [
+                "do_nabe_"
+            ],
+            "image": "gakuensai2022/donabe/ikayaki/ikayaki.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "イカ印の姿焼き"
+        },
+        {
+            "creators": [
+                "do_nabe_"
+            ],
+            "image": "gakuensai2022/donabe/ringoame/ringo-ame.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "melon_slice"
+            ],
+            "name": "兎印のりんご飴"
+        },
+        {
+            "creators": [
+                "do_nabe_"
+            ],
+            "image": "gakuensai2022/donabe/ringoame-blue/ringo-ame.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "beetroot"
+            ],
+            "name": "兎印のりんご飴"
+        },
+        {
+            "creators": [
+                "do_nabe_"
+            ],
+            "image": "gakuensai2022/donabe/ringoame-green/ringo-ame.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cookie"
+            ],
+            "name": "兎印のりんご飴"
+        },
+        {
+            "creators": [
+                "do_nabe_"
+            ],
+            "image": "gakuensai2022/donabe/ringoame-yellow/ringo-ame.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "golden_carrot"
+            ],
+            "name": "兎印のりんご飴"
+        },
+        {
+            "creators": [
+                "do_nabe_"
+            ],
+            "image": "gakuensai2022/donabe/takoyaki/takoyaki.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "タコのあつあつ"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/curry.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "懐かしのカレーライス"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/gohan_wakame.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "懐かしのわかめごはん"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/kinakopan.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "大人気きな粉あげパン"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/milk.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "melon_slice"
+            ],
+            "name": "ちょっと美味しいミルク"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/pasuta.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ソフト麺~ミートソース~"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/soup_abc.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ABCミネストローネ"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/soup_misosiru.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "懐かしのお味噌汁"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/torei.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "トレー"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/yani_en.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "ぷかぷかヤニ"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/yani_hana.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "おはなヤニ"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/yani_inu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "わんわんヤニ"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/yani_maru.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "まんまるヤニ"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/yani_neko.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "にゃんヤニ"
+        },
+        {
+            "creators": [
+                "KoHchaaan428"
+            ],
+            "image": "gakuensai2022/gakuensai_king/yani_usagi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "ぴょんヤニ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/616_nui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "616",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "616ぬいぐるみ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/aozora_nui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "あおぞら",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "あおぞらぬいぐるみ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/c7_nui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "しーなな",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "しーななぬいぐるみ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/dryflower1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "橙ドライフラワー"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/dryflower_blue.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "青ドライフラワー"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/dryflower_pink.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "桃ドライフラワー"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/dryflower_purple.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "紫ドライフラワー"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/dryflower_red.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "赤ドライフラワー"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/dryflower_yellow.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "黄ドライフラワー"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/greenjouro.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "緑じょうろ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/guarden_arch.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ガーデンアーチ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/kaerenai_nui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "かえれない",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "帰れないぬいぐるみ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/kanemoti_bag.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "手持ちごんかねミニキャラ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/meu_nui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "なつめう",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "なつめうぬいぐるみ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/motimotikanemoti.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "もちもちごんかねミニキャラ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/motimotiyakipen.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "もちもち焼きペン"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/orangejouro.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "橙じょうろ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/pentate.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "学生たちのペン立て"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/raku_nui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "らく",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "らくくくぬいぐるみ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/soratobu_yakipen.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "空飛ぶ焼きペン"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/tairyoukamemoti.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "大量ごんかねミニキャラ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/tea2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "white_stained_glass"
+            ],
+            "name": "花柄ティーカップ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/teris_nui.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "てりす",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "てりすぬいぐるみ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/tyoumiryoutana.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "orange_stained_glass"
+            ],
+            "name": "調味料棚"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/whitejouro.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "白じょうろ"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/yakipen_bag.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "手持ち焼きペン"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/yakipen_carpet.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "relation": "やきぱん",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "焼きペンカーペット"
+        },
+        {
+            "creators": [
+                "御膳"
+            ],
+            "image": "gakuensai2022/gozen2022/zaisu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "座椅子"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/kabotya.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "カボチャ"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/koumori.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "コウモリ"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/majo.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "魔女1"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/majo2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "魔女2"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/majo3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "魔女3"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/moon.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "月"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/obake.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "オバケ"
+        },
+        {
+            "creators": [
+                "_616_"
+            ],
+            "image": "gakuensai2022/halloween/oyasiki.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "おやしき"
+        },
+        {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
+            "image": "gakuensai2022/hapycury/annin.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "pumpkin_pie"
+            ],
+            "name": "くだものたっぷり杏仁豆腐"
+        },
+        {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
+            "image": "gakuensai2022/hapycury/candy_apple.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "食うか食われるかのりんご飴"
+        },
+        {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
+            "image": "gakuensai2022/hapycury/candy_cotton.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "melon_slice"
+            ],
+            "name": "ふわっふわのわたあめ"
+        },
+        {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
+            "image": "gakuensai2022/hapycury/candy_strb.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "最後までいちごたっぷり？いちご飴"
+        },
+        {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
+            "image": "gakuensai2022/hapycury/ramune.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "ぷかぷかサマーラムネ",
+            "nbts": [
+                "nbt.Potion=minecraft:long_water_breathing"
+            ]
+        },
+        {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
+            "image": "gakuensai2022/hapycury/utiwa_oto.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "brick"
+            ],
+            "name": "おとうふうちわ"
+        },
+        {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
+            "image": "gakuensai2022/hapycury/utiwa_risu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "brick"
+            ],
+            "name": "りすうちわ"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/naginata.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "氷装・薙"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/nihontou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "日本刀",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/nihontou_saya.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "日本刀",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/rei.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "細剣・ハルハール"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/rei_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "細剣・ハルハール",
+            "etc": [
+                "weight=1",
+                "enchantments=fire_aspect",
+                "enchantmentLevels=2"
+            ],
+            "weight": "1",
+            "enchantments": "fire_aspect",
+            "enchantmentLevels": "2"
+        },
+        {
+            "creators": [
+                "mugi6283zw,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/sickle.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "netherite_sword"
+            ],
+            "name": "かまととうさぎ"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/cane_greens/cane_green.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "golden_sword"
+            ],
+            "name": "新緑の杖",
+            "etc": [
+                "enchantments=unbreaking",
+                "enchantmentLevels=3"
+            ],
+            "enchantments": "unbreaking",
+            "enchantmentLevels": "3"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/cane_greens/k_cane.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "golden_sword"
+            ],
+            "name": "新緑の杖"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/concassers/concasser_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "netherite_sword"
+            ],
+            "name": "コンカッセ"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/concassers/concasser_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "netherite_sword"
+            ],
+            "name": "コンカッセ",
+            "etc": [
+                "weight=1",
+                "enchantments=unbreaking",
+                "enchantmentLevels=1-"
+            ],
+            "weight": "1",
+            "enchantments": "unbreaking",
+            "enchantmentLevels": "1-"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/concassers/concasser_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "netherite_sword"
+            ],
+            "name": "コンカッセ",
+            "etc": [
+                "weight=2",
+                "enchantments=sweeping",
+                "enchantmentLevels=3"
+            ],
+            "weight": "2",
+            "enchantments": "sweeping",
+            "enchantmentLevels": "3",
+            "nbts": [
+                "nbt.Enchantments.1.id=minecraft:unbreaking"
+            ]
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/concassers/concasser_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "netherite_sword"
+            ],
+            "name": "コンカッセ",
+            "etc": [
+                "weight=2",
+                "enchantments=sweeping",
+                "enchantmentLevels=3"
+            ],
+            "weight": "2",
+            "enchantments": "sweeping",
+            "enchantmentLevels": "3",
+            "nbts": [
+                "nbt.Enchantments.0.id=minecraft:unbreaking"
+            ]
+        },
+        {
+            "event": "第三回聖兎学園祭",
+            "image": "gakuensai2022/kosshi/kanban/kanban.mng",
+            "category": "置物",
+            "item_ids": [
+                "oak_sign"
+            ],
+            "name": "dollfoodshop"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/katanas/katana_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "黒刃・黒鞘",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/katanas/katana_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "白刃・白鞘",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/katanas/katana_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "netherite_sword"
+            ],
+            "name": "鬼刃・赤鞘",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/katanas/katana_black_saya.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "黒刃・黒鞘",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/katanas/katana_red_saya.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "netherite_sword"
+            ],
+            "name": "鬼刃・赤鞘",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/katanas/katana_white_saya.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "白刃・白鞘",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/agepota.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "揚げたてポテト"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/banana.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "golden_carrot"
+            ],
+            "name": "落としそうになるチョコバナナ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/ham.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_chicken"
+            ],
+            "name": "照り焼きチキンのハンバーガー"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/itigo.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "ハートにみえるいちご飴"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/pota.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "たまに食べたくなるじゃがバター"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/tako.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "青のりがよく歯につくたこ焼き"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/tart.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "pumpkin_pie"
+            ],
+            "name": "いちごいっぱいのおいしいタルト"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/tosu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "ココアが気になるチョコレートチュロス"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/yksb.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_porkchop"
+            ],
+            "name": "大盛り焼きそば"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/ringo/ringoame1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "たらこ",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "最初はぺろぺろなめちゃうりんご飴"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/ringo/ringoame2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "やきぱん",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "いで！かたくて食べづらいりんご飴"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/ringo/ringoame3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "ごんかね",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "ふしぎがいっぱい10円玉みたいなりんご飴"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/ringo/ringoame4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "んそめ",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "ムキムキになれそうなりんご飴"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/ringo/ringoame5.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "とげとげだけどあま～いりんご飴"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/2d/ringo/ringoame6.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "apple"
+            ],
+            "name": "うさぎさんのゆめかわりんご飴"
+        },
+        {
+            "creators": [
+                "konbu02020"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/kkbn.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "学園祭は9\\/16∼9\\/19までよ！"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/ar_kyu/ar_kyu_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "あろえ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 3-64"
+            ],
+            "stackSize": "1 3-64",
+            "name": "旧あろえぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/ar_kyu/ar_kyu_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "あろえ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "旧あろえぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/ar_sin/ar_gaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "あろえ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "新あろえぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/ar_sin/ar_sin_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "あろえ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 4-64"
+            ],
+            "stackSize": "1 4-64",
+            "name": "新あろえぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/ar_sin/ar_sin_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "あろえ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "新あろえぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/gn/gn_gaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "げんぴょんぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/gn/gn_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 4-64"
+            ],
+            "stackSize": "1 4-64",
+            "name": "げんぴょんぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/gn/gn_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "げんぴょんぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/gt/gt_gaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "ぐちつぼぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/gt/gt_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 4-64"
+            ],
+            "stackSize": "1 4-64",
+            "name": "ぐちつぼぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/gt/gt_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "ぐちつぼぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/kn/kn_gaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "ごんかねぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/kn/kn_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 4-64"
+            ],
+            "stackSize": "1 4-64",
+            "name": "ごんかねぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/kn/kn_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "ごんかねぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/sm/sm_gaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "んそめ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "んそめぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/sm/sm_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "んそめ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 4-64"
+            ],
+            "stackSize": "1 4-64",
+            "name": "んそめぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/sm/sm_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "んそめ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "んそめぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/tr/tr_gaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "たらこ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "たらこぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/tr/tr_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "たらこ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 4-64"
+            ],
+            "stackSize": "1 4-64",
+            "name": "たらこぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/tr/tr_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "たらこ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "たらこぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/yk/yk_gaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "焼きパンぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/yk/yk_normal.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1 4-64"
+            ],
+            "stackSize": "1 4-64",
+            "name": "焼きパンぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/yk/yk_xmas.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "焼きパンぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/gnki/yk/yk_zeta.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "ZETA焼きパンぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "irasyai"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "kaimono_ty"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "kawaru"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "tonari_zakka"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds5.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "tonari_buki"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds6.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "riseki"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds7.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "yusyou1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds8.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "yusyou2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/hkds9.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "miruna"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/knb_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "knb_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/knb_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "knb_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/knb_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "knb_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/knb_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "knb_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/kosi_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "kosi_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/kosi_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "kosi_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/kosi_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "kosi_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/kosi_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "kosi_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/ksnm_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "ksnm_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/ksnm_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "ksnm_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/ksnm_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "ksnm_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/ksnm_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "ksnm_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/ksnm_5.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "ksnm_5"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/mame_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "mame_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/mame_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "mame_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/mame_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "mame_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/mame_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "mame_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nati_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nati_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nati_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nati_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nati_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nati_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nati_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nati_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nuko_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nuko_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nuko_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nuko_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nuko_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nuko_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/nuko_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "nuko_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/roi_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "roi_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/roi_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "roi_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/roi_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "roi_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/roi_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "roi_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/siro_1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "siro_1"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/siro_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "siro_2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/siro_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "siro_3"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/hukidasi/siro_4.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "siro_4"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/alumina.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "あるみな",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "あるみなぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/beer.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "びあちゃん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=1"
+            ],
+            "stackSize": "1",
+            "name": "びあちゃんぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/beer_hito.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "びあちゃん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "etc": [
+                "stackSize=2-64"
+            ],
+            "stackSize": "2-64",
+            "name": "びあちゃんぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/donabe.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "どなべ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "どなべぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/koh.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こうちゃん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "こうちゃんぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/konoki.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "このき",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "このきぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/kouno.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "こうの",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "こうのぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/siro.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "しろ",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "しろぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/veil.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "べいる",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "べいるぬいぐるみ"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/kombutaro/3d/unei/xavi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "しゃびちゃん",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "しゃびちゃんぬいぐるみ"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/materials/ariki_tari.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "enchanted_book"
+            ],
+            "name": "アリキ・タリ鉱石",
+            "etc": [
+                "enchantments=unbreaking",
+                "enchantmentLevels=3"
+            ],
+            "enchantments": "unbreaking",
+            "enchantmentLevels": "3"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/materials/book_ryu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "enchanted_book"
+            ],
+            "name": "龍王伝",
+            "etc": [
+                "enchantments=sharpness",
+                "enchantmentLevels=5"
+            ],
+            "enchantments": "sharpness",
+            "enchantmentLevels": "5"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/materials/eiyu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "enchanted_book"
+            ],
+            "name": "英雄魂",
+            "etc": [
+                "enchantments=sweeping",
+                "enchantmentLevels=3"
+            ],
+            "enchantments": "sweeping",
+            "enchantmentLevels": "3"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/materials/f_material.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "enchanted_book"
+            ],
+            "name": "フューチャー・マテリアル",
+            "etc": [
+                "enchantments=mending"
+            ],
+            "enchantments": "mending"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/materials/phoenix.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "enchanted_book"
+            ],
+            "name": "フェニックスパット",
+            "etc": [
+                "enchantments=fire_aspect",
+                "enchantmentLevels=2"
+            ],
+            "enchantments": "fire_aspect",
+            "enchantmentLevels": "2"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/nui/konbu1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "こんぶぬいぐるみ2020"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/nui/konbu2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "こんぶぬいぐるみ2021"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/nui/riseki1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "デコイだ！"
+        },
+        {
+            "creators": [
+                "konbu0202"
+            ],
+            "image": "gakuensai2022/kosshi/nui/riseki2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "中身いません"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/round_axes/round_axemodel.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "diamond_axe"
+            ],
+            "name": "ラウンド・アックス"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/round_axes/round_axe_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "diamond_axe"
+            ],
+            "name": "ラウンド・アックス",
+            "etc": [
+                "enchantments=unbreaking",
+                "enchantmentLevels=3"
+            ],
+            "enchantments": "unbreaking",
+            "enchantmentLevels": "3"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/sword_galgas/sword_fire.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "大剣・ガルガ",
+            "etc": [
+                "weight=1",
+                "enchantments=unbreaking",
+                "enchantmentLevels=1-"
+            ],
+            "weight": "1",
+            "enchantments": "unbreaking",
+            "enchantmentLevels": "1-"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/sword_galgas/sword_flame.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "大剣・ガルガ",
+            "etc": [
+                "weight=2",
+                "enchantments=unbreaking",
+                "enchantmentLevels=5-"
+            ],
+            "weight": "2",
+            "enchantments": "unbreaking",
+            "enchantmentLevels": "5-"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/sword_galgas/sword_galga.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "大剣・ガルガ"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/toy_bows/toy_arrow.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "arrow"
+            ],
+            "name": "おもちゃの矢"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/toy_bows/toy_bow.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "bow"
+            ],
+            "name": "おもちゃの弓"
+        },
+        {
+            "creators": [
+                "kosshi0701,kashinomi0384"
+            ],
+            "image": "gakuensai2022/kosshi/toy_bows/toy_bow_3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "bow"
+            ],
+            "name": "おもちゃの弓",
+            "etc": [
+                "weight=1",
+                "enchantments=mending"
+            ],
+            "weight": "1",
+            "enchantments": "mending"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cactus_juice1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "カクタスフルーツカクテル"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cactus_juice2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "potion"
+            ],
+            "nbts": [
+                "nbt.Potion=regex:minecraft:long_night_vision|minecraft:night_vision"
+            ],
+            "name": "カクタスフルーツカクテル"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cf_genpyon.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "milk_bucket",
+                "honey_bottle"
+            ],
+            "name": "げんぴょんラテ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cf_gon.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "ごんかね",
+            "item_ids": [
+                "milk_bucket",
+                "honey_bottle"
+            ],
+            "name": "ごんかねラテ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cf_guti.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "milk_bucket",
+                "honey_bottle"
+            ],
+            "name": "ぐちつぼラテ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cf_some.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "んそめ",
+            "item_ids": [
+                "milk_bucket",
+                "honey_bottle"
+            ],
+            "name": "んそめラテ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cf_tara.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "たらこ",
+            "item_ids": [
+                "milk_bucket",
+                "honey_bottle"
+            ],
+            "name": "たらこラテ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/cf_yaki.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "やきぱん",
+            "item_ids": [
+                "milk_bucket",
+                "honey_bottle"
+            ],
+            "name": "焼きぱんラテ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/esa_gomi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "rotten_flesh"
+            ],
+            "name": "お掃除ロボットのえさ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/franspanbat.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "diamond_pickaxe"
+            ],
+            "name": "フランスパンバット"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/gontakoyaki.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "ごんかね",
+            "item_ids": [
+                "cooked_porkchop"
+            ],
+            "name": "異物混入たこ焼き"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/moet.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "potion",
+                "splash_potion"
+            ],
+            "nbts": [
+                "nbt.Potion=regex:minecraft:(water|swiftness|strong_swiftness|long_swiftness|leaping|strong_leaping|long_leaping)"
+            ],
+            "name": "お祝いシャンパン"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/naka_gomi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "bone"
+            ],
+            "name": "仲良くなれるゴミ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/nekutai.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "酔っ払いのネクタイ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/onigiri.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "たらこ",
+            "item_ids": [
+                "cooked_porkchop"
+            ],
+            "name": "たらこたっぷりおにぎり"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/pyon_azuki_toast.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "イケメンと角でぶつかるトースト"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/runba_box.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "lime_shulker_box"
+            ],
+            "name": "お掃除ロボット"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/runba_item.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "wolf_spawn_egg"
+            ],
+            "name": "お掃除ロボット"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/setumeisyo.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "written_book"
+            ],
+            "nbts": [
+                "nbt.author=re_veil",
+                "nbt.title=お掃除ロボット説明書"
+            ]
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/some_plate.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "んそめ",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main",
+            "name": "そめプレート ～サンドイッチセット～"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/some_plate2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "んそめ",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "そめプレート ～サンドイッチセット～"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/re_veil/zenzai.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "relation": "やきぱん",
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "焼き白玉ぜんざい"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_afuro.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "もふもふアフロ"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_ahoge.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ぴこぴこアホ毛"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_bansoukou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ぺたぺた絆創膏"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_bara.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "きらきらバラ"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_bere-bou.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ぽむぽむベレー帽"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_erufumimi.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "つくつくエルフ耳"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_kakumegane.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "かくかく眼鏡"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_kemote.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "もこもこけも手",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_kemoteof.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "もこもこけも手",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_mafura-.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ぐるぐるマフラー"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_makigami.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "くるくる巻き髪"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_manekin.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "田中屋マネキン"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_marumegane.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "まるまる眼鏡"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_ohige.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "もさもさおひげ"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_pa-ka-.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ぽかぽかパーカー",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_pa-ka-of.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ぽかぽかパーカー",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_penpen.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ぺんぺんバルーンバット"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_pikapika.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ぴかぴかバルーンバット"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_pokopoko.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "んそめ",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ぽこぽこバルーンバット"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_pyonpyon.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ぴょんぴょんバルーンバット"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_tensinohane.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ばさばさ天使の羽"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_tikutiku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ちくちくバルーンバット"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_tubutubu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "たらこ",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "つぶつぶバルーンバット"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/tanakaya/k_tuinte.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "note": "染色可",
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "ふわふわツインテ"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/bath.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "札束風呂"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/gold_chain.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "ギラギラチェーン"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/unnei/ipyone.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "iPyone",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/unnei/ipyoneof.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "iPyone",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/kandoora.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "なりきり石油王"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/limousine1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "ファンシーなリムジンのフロント"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/limousine2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "ファンシーなリムジンのボディ"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/limousine3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "ファンシーなリムジンのリア"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/unnei/money_sensu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gold_nugget"
+            ],
+            "name": "扇子"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/unnei/nage_money.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "snowball"
+            ],
+            "name": "投げ銭"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/unnei/roulette.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "ルーレット"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/unnei/sypantower2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "シャンパンタワー"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/unnei/triangle.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "運命を決める矢印"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/trophy/photo.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "nether_star"
+            ],
+            "name": "映えしお嬢様2022"
+        },
+        {
+            "creators": [
+                "kouno78"
+            ],
+            "image": "gakuensai2022/unnei/trophy/pvp.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "nether_star"
+            ],
+            "name": "勝ち残りしお嬢様2022"
+        },
+        {
+            "creators": [
+                "alumina6767"
+            ],
+            "image": "gakuensai2022/unnei/trophy/stamp.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "nether_star",
+                "blaze_powder"
+            ],
+            "name": "踏破せしお嬢様2022"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/unnei/trophy/syutten.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "nether_star"
+            ],
+            "name": "商魂たくましいお嬢様2022"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/unnei/trophy/torophy.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder",
+                "nether_star"
+            ],
+            "name": "トロフィー2022"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/asure/asure.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ アスレ"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/asure/asure02.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ02 アスレ"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/gamoto_2/2_gamoto_2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ の素？"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/gamoto_2/2_gamoto_202.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ02 の素？"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/gozen/2_gozen.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ 御前じゃないよ"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/gozen/2_gozen02.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ02 御前じゃないよ"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/nazotoki/1.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "謎解き用1"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/nazotoki/2.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "謎解き用2"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/nazotoki/3.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "謎解き用3"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/nokorimono/2_nokoeimono.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ のこりもの"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/nokorimono/2_nokoeimono02.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ02 のこりもの"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/revolver/hekart.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "crossbow"
+            ],
+            "name": "世界のガラクタ SR"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/revolver/revolver.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "武器",
+            "item_ids": [
+                "crossbow"
+            ],
+            "name": "世界のガラクタ シェリフ"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/shun_hune/2_shun_hune.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ 鹿児島"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/shun_hune/2_shun_hune02.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ02 鹿児島"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/white/2_white.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ しろめ"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/white/2_white02.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ02 しろめ"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/yuhuku/2_yuhuku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ 貧乏"
+        },
+        {
+            "creators": [
+                "wassao_72110"
+            ],
+            "image": "gakuensai2022/wassao_72110/yuhuku/2_yuhuku02.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "世界のガラクタ02 貧乏"
+        },
+        {
+            "creators": [
+                "yueni01"
+            ],
+            "image": "gakuensai2022/yueni01/daredemosabotenkitto.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "誰でもサボテンキット"
+        },
+        {
+            "creators": [
+                "yueni01"
+            ],
+            "image": "gakuensai2022/yueni01/dokodemousatyan.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "げんぴょん",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "どこでもうさちゃん"
+        },
+        {
+            "creators": [
+                "yueni01"
+            ],
+            "image": "gakuensai2022/yueni01/kimyounasyokkaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ごんかね",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "奇妙な触覚"
+        },
+        {
+            "creators": [
+                "yueni01"
+            ],
+            "image": "gakuensai2022/yueni01/onepoint.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "置物",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "看板"
+        },
+        {
+            "creators": [
+                "yueni01"
+            ],
+            "image": "gakuensai2022/yueni01/somesannomagukappu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "んそめ",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "そめさんのマグカップ"
+        },
+        {
+            "creators": [
+                "yueni01"
+            ],
+            "image": "gakuensai2022/yueni01/umenohanakazari.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "たらこ",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "梅の花飾り"
+        },
+        {
+            "creators": [
+                "yueni01"
+            ],
+            "image": "gakuensai2022/yueni01/yakipennofuraitokyappu.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "やきぱん",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "焼きペンのフライトキャップ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/yuuhuku/sushii.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "犠牲になった中トロ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2022/yuuhuku/zaku.mng",
+            "event": "第三回聖兎学園祭",
+            "category": "アクセサリー",
+            "relation": "ぐちつぼ",
+            "item_ids": [
+                "potion",
+                "splash_potion"
+            ],
+            "nbts": [
+                "nbt.Potion=regex:minecraft:(water|slow_falling|long_slow_falling)"
+            ],
+            "name": "泥酔のもと"
         },
         {
             "creators": [
@@ -7685,6 +11885,9 @@
             "image": "xmas2021/keihin/home.mng",
             "event": "クリスマス2021",
             "category": "イベント",
+            "item_ids": [
+                "diamond"
+            ],
             "name": "旧集会所"
         },
         {
