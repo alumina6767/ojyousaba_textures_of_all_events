@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "./kin",
-		"2": "block/campfire",
+		"2": "./campfire",
 		"3": "./wood"
 	},
 	"elements": [
