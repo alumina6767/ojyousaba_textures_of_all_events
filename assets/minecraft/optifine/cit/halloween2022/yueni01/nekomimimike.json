@@ -1,0 +1,7 @@
+{
+	"parent": "./nekomimi",
+    "textures": {
+		"0": "./nekomimimike",
+		"particle": "./nekomimimike"
+	}
+}

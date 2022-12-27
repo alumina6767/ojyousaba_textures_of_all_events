@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./kuti",
+		"particle": "./kuti"
+	},
+	"elements": [
+		{
+			"from": [-1, -7, -1],
+			"to": [17, 9, -1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [66, 180, 0],
+			"translation": [-17, 7, 25.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [66, 0, 0],
+			"translation": [-17, -10.75, 29.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -21.75, 0],
+			"translation": [1.75, 3.75, 0.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 125, 0],
+			"translation": [5.25, 4.75, -3.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 12.75, 0]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 6.75, 0]
+		},
+		"head": {
+			"translation": [0, 2.75, 1.75]
+		},
+		"fixed": {
+			"translation": [0, 8, 17.5],
+			"scale": [2.10156, 2.10156, 2.10156]
+		}
+	}
+}
