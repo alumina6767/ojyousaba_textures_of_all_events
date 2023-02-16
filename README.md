@@ -13,7 +13,7 @@
 ファイルの中身をしっかり見たい人は`Source code (zip)`とか右上の`Code` > `Download ZIP`とかから
 
 ## どんなテクスチャがあるの？
-テクスチャのリストは[こちら](https://docs.google.com/spreadsheets/d/1D3KZMCaSkLnLyjUG_q8NQQ3CfYGKhifaccQoVnQAHQo/edit?usp=sharing)で公開しています。
+テクスチャのリストは[こちら](https://alumina6767.github.io/ojousaba_textures_for_all_events/)で公開しています。
 心のこもった手作業でのリスト制作ですので間違いがいっぱいです。
 
 ## 気をつけること
