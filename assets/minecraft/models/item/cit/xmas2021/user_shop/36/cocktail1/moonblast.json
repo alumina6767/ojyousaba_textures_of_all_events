@@ -1,0 +1,8 @@
+{
+    "parent": "item/cit/xmas2021/user_shop/36/cocktail1/bad_touch",
+    "textures": {
+        "0": "item/cit/xmas2021/user_shop/36/cocktail1/grass",
+        "1": "item/cit/xmas2021/user_shop/36/cocktail1/drink_moon",
+        "3": "item/cit/xmas2021/user_shop/36/cocktail1/futi"
+    }
+}

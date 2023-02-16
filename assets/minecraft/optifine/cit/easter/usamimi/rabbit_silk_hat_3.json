@@ -1,9 +1,0 @@
-{
-    "parent": "./rabbit_silk_hat_0",
-	"textures": {
-		"0": "./heart",
-		"1": "./gray",
-		"2": "./rabbit_silk_hat_3",
-		"particle": "./heart"
-	}
-}

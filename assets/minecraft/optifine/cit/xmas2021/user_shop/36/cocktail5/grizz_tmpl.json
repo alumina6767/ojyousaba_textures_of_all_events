@@ -1,9 +1,0 @@
-{
-    "parent": "./bloom_lght",
-    "textures": {
-        "0": "./tate5",
-        "1": "./drink_grizz",
-        "2": "./futi5",
-        "particle": "./tate5"
-    }
-}

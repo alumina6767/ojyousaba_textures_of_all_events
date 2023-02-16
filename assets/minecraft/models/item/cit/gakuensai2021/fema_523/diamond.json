@@ -1,0 +1,6 @@
+{
+	"parent": "item/cit/gakuensai2021/fema_523/emblem",
+	"textures": {
+		"layer0": "item/cit/gakuensai2021/fema_523/diamond"
+	}
+}

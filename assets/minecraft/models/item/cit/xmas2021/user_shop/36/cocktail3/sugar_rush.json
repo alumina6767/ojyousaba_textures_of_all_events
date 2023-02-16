@@ -1,0 +1,9 @@
+{
+    "parent": "item/cit/xmas2021/user_shop/36/cocktail3/mercryblast",
+    "textures": {
+        "0": "item/cit/xmas2021/user_shop/36/cocktail3/tate2",
+        "1": "item/cit/xmas2021/user_shop/36/cocktail3/drink_sugar",
+        "2": "item/cit/xmas2021/user_shop/36/cocktail3/futi3",
+        "particle": "item/cit/xmas2021/user_shop/36/cocktail3/tate2"
+    }
+}

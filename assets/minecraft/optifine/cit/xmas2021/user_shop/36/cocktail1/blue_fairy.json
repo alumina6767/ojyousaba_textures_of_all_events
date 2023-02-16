@@ -1,8 +1,0 @@
-{
-    "parent": "./bad_touch",
-    "textures": {
-        "0": "./grass",
-        "1": "./drink_blue",
-        "3": "./futi"
-    }
-}

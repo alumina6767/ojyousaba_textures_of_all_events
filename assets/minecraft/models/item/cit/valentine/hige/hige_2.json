@@ -1,0 +1,6 @@
+{
+    "parent": "item/cit/valentine/hige/hige",
+    "textures": {
+        "0": "item/cit/valentine/hige/hige_2"
+    }
+}

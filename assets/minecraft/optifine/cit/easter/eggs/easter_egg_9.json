@@ -1,7 +1,0 @@
-{
-    "parent": "./normal_tamago",
-    "textures": {
-        "0": "./easter_egg_9",
-        "particle": "./easter_egg_9"
-    }
-}

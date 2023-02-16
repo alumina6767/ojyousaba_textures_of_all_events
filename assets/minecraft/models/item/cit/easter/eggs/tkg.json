@@ -1,0 +1,7 @@
+{
+    "parent": "item/cit/easter/eggs/tamago",
+    "textures": {
+        "1": "item/cit/easter/eggs/tkg",
+        "particle": "item/cit/easter/eggs/tkg"
+    }
+}

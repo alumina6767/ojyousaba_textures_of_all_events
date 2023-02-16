@@ -1,0 +1,8 @@
+{
+    "parent": "item/cit/easter/husen/usagihusen",
+    "textures": {
+        "1": "item/cit/easter/husen/lime",
+        "2": "item/cit/easter/husen/string",
+        "particle": "item/cit/easter/husen/lime"
+    }
+}

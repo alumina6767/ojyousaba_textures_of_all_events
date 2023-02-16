@@ -1,0 +1,7 @@
+{
+    "parent": "item/cit/anniversary2022/head/fascinator",
+    "textures": {
+        "1": "item/cit/anniversary2022/head/light_blue",
+        "particle": "item/cit/anniversary2022/head/light_blue"
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "./tyoutin",
-    "textures": {
-        "0": "./tyo5",
-        "1": "./usagi",
-        "particle": "./tyo5"
-    }
-}

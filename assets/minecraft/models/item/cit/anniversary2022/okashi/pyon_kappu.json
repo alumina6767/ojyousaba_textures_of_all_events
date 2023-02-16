@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cit/anniversary2022/okashi/pyon_kappu",
+        "particle": "item/cit/anniversary2022/okashi/pyon_kappu"
+    }
+}

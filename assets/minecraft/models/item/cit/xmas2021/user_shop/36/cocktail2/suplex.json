@@ -1,0 +1,9 @@
+{
+    "parent": "item/cit/xmas2021/user_shop/36/cocktail2/crv_spike",
+    "textures": {
+        "0": "item/cit/xmas2021/user_shop/36/cocktail2/tate",
+        "1": "item/cit/xmas2021/user_shop/36/cocktail2/drink_sup",
+        "3": "item/cit/xmas2021/user_shop/36/cocktail2/futi2",
+        "particle": "item/cit/xmas2021/user_shop/36/cocktail2/tate"
+    }
+}

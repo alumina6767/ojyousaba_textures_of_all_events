@@ -1,0 +1,87 @@
+{
+    "credit": "Made by wasso",
+    "parent": "item/cit/gakuensai2022/wassao_72110/shun_hune/2_shun_hune",
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [
+                0,
+                0,
+                0
+            ]
+        },
+        "thirdperson_lefthand": {
+            "scale": [
+                0,
+                0,
+                0
+            ]
+        },
+        "firstperson_righthand": {
+            "scale": [
+                0,
+                0,
+                0
+            ]
+        },
+        "firstperson_lefthand": {
+            "scale": [
+                0,
+                0,
+                0
+            ]
+        },
+        "ground": {
+            "rotation": [
+                0,
+                16,
+                0
+            ],
+            "translation": [
+                0.75,
+                -1.75,
+                24.75
+            ]
+        },
+        "gui": {
+            "translation": [
+                0.25,
+                -7.25,
+                0
+            ],
+            "scale": [
+                0.64,
+                0.64,
+                0.64
+            ]
+        },
+        "head": {
+            "translation": [
+                1.25,
+                12.75,
+                0
+            ],
+            "scale": [
+                0.58,
+                0.58,
+                0.58
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                90,
+                0,
+                0
+            ],
+            "translation": [
+                2.25,
+                0,
+                59.75
+            ],
+            "scale": [
+                2.63,
+                2.63,
+                2.63
+            ]
+        }
+    }
+}

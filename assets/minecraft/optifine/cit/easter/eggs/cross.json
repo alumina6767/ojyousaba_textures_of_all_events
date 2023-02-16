@@ -1,7 +1,0 @@
-{
-    "parent": "./tamago",
-    "textures": {
-        "1": "./cross",
-        "particle": "./cross"
-    }
-}

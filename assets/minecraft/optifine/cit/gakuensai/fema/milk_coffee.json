@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "./milk_coffee",
-        "layer1": "./milk_coffee"
-    }
-}

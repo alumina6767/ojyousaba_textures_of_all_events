@@ -1,7 +1,0 @@
-{
-	"parent": "./nekomimi",
-    "textures": {
-		"0": "./nekomimisiro",
-		"particle": "./nekomimisiro"
-	}
-}

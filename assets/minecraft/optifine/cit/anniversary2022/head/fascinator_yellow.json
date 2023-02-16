@@ -1,7 +1,0 @@
-{
-    "parent": "./fascinator",
-    "textures": {
-        "1": "./yellow",
-        "particle": "./yellow"
-    }
-}

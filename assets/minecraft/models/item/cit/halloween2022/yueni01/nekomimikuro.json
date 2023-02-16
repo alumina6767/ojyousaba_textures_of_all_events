@@ -1,0 +1,7 @@
+{
+	"parent": "item/cit/halloween2022/yueni01/nekomimi",
+    "textures": {
+		"0": "item/cit/halloween2022/yueni01/nekomimikuro",
+		"particle": "item/cit/halloween2022/yueni01/nekomimikuro"
+	}
+}

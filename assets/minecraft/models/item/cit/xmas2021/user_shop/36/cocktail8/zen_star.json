@@ -1,0 +1,10 @@
+{
+    "parent": "item/cit/xmas2021/user_shop/36/cocktail8/sun_cloud",
+    "textures": {
+        "0": "item/cit/xmas2021/user_shop/36/cocktail8/tate8",
+        "1": "item/cit/xmas2021/user_shop/36/cocktail8/drink_zen",
+        "3": "item/cit/xmas2021/user_shop/36/cocktail8/futi8",
+        "4": "item/cit/xmas2021/user_shop/36/cocktail8/leaf",
+        "particle": "item/cit/xmas2021/user_shop/36/cocktail8/tate8"
+    }
+}

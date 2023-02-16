@@ -1,0 +1,22 @@
+{
+	"parent": "item/cit/xmas2021/wassao/glipo/glitchpop_axe_bb",
+    "textures": {
+        "0": "item/cit/xmas2021/wassao/glipo/glipo_1",
+        "1": "item/cit/xmas2021/wassao/glipo/parpule",
+        "3": "item/cit/xmas2021/wassao/glipo/glipo_3",
+        "4": "item/cit/xmas2021/wassao/glipo/asi4",
+        "7": "item/cit/xmas2021/wassao/glipo/kuro",
+        "8": "item/cit/xmas2021/wassao/glipo/asi3",
+        "9": "item/cit/xmas2021/wassao/glipo/kin",
+        "10": "item/cit/xmas2021/wassao/glipo/part_2",
+        "12": "item/cit/xmas2021/wassao/glipo/gli8",
+        "13": "item/cit/xmas2021/wassao/glipo/gli9",
+        "14": "item/cit/xmas2021/wassao/glipo/gli8_r",
+        "15": "item/cit/xmas2021/wassao/glipo/gli9_r",
+        "16": "item/cit/xmas2021/wassao/glipo/gli11",
+        "17": "item/cit/xmas2021/wassao/glipo/gli10_r",
+        "18": "item/cit/xmas2021/wassao/glipo/gli10_m",
+        "19": "item/cit/xmas2021/wassao/glipo/gli11_r",
+        "particle": "item/cit/xmas2021/wassao/glipo/glipo_1"
+    }
+}

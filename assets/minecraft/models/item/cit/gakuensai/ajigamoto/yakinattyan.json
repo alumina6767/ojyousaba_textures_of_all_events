@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/cit/gakuensai/ajigamoto/yakinattyan",
+        "layer1": "item/cit/gakuensai/ajigamoto/yakinattyan"
+    }
+}

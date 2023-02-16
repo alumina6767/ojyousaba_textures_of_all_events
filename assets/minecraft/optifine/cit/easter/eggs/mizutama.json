@@ -1,7 +1,0 @@
-{
-    "parent": "./tamago",
-    "textures": {
-        "1": "./mizutama",
-        "particle": "./mizutama"
-    }
-}

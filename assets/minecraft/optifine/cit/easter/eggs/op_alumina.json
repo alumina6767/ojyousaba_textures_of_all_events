@@ -1,7 +1,0 @@
-{
-    "parent": "./tamago",
-    "textures": {
-        "1": "./op_alumina",
-        "particle": "./op_alumina"
-    }
-}

@@ -1,0 +1,9 @@
+{
+    "parent": "item/cit/easter/usamimi/rabbit_silk_hat_0",
+	"textures": {
+		"0": "item/cit/easter/usamimi/heart",
+		"1": "item/cit/easter/usamimi/gray",
+		"2": "item/cit/easter/usamimi/rabbit_silk_hat_3",
+		"particle": "item/cit/easter/usamimi/heart"
+	}
+}

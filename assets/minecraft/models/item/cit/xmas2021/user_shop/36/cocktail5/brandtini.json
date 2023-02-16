@@ -1,0 +1,9 @@
+{
+    "parent": "item/cit/xmas2021/user_shop/36/cocktail5/bloom_lght",
+    "textures": {
+        "0": "item/cit/xmas2021/user_shop/36/cocktail5/tate5",
+        "1": "item/cit/xmas2021/user_shop/36/cocktail5/drink_bran",
+        "2": "item/cit/xmas2021/user_shop/36/cocktail5/futi5",
+        "particle": "item/cit/xmas2021/user_shop/36/cocktail5/tate5"
+    }
+}

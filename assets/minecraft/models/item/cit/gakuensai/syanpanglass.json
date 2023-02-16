@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cit/gakuensai/syanpanglass",
+        "layer1": "item/cit/gakuensai/syanpanglass"
+    }
+}

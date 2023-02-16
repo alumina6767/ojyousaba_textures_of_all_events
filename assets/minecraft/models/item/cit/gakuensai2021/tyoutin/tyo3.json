@@ -1,0 +1,8 @@
+{
+    "parent": "item/cit/gakuensai2021/tyoutin/tyoutin",
+    "textures": {
+        "0": "item/cit/gakuensai2021/tyoutin/tyo3",
+        "1": "item/cit/gakuensai2021/tyoutin/usagi",
+        "particle": "item/cit/gakuensai2021/tyoutin/tyo3"
+    }
+}
