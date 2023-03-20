@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/cit/halloween2020/dracula_leggings_i"
+    }
+}
