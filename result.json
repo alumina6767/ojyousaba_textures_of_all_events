@@ -12260,6 +12260,431 @@
             "name": "mochi"
         },
         {
+            "image": "syougatu2023/akibako/oonusa.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "大幣"
+        },
+        {
+            "image": "syougatu2023/akibako/men/ra-men.mng",
+            "event": "syougatu2023",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "年越しラーメン"
+        },
+        {
+            "image": "syougatu2023/akibako/men/soba.mng",
+            "event": "syougatu2023",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "年越しそば"
+        },
+        {
+            "image": "syougatu2023/akibako/men/udon.mng",
+            "event": "syougatu2023",
+            "category": "食べ物",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "年越しうどん"
+        },
+        {
+            "image": "syougatu2023/akibako/obi/obi1.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "orange_dye"
+            ],
+            "name": "帯飾り"
+        },
+        {
+            "image": "syougatu2023/akibako/obi/obi2.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "帯飾り"
+        },
+        {
+            "image": "syougatu2023/akibako/ribon/hakama_ribon1.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "green_dye"
+            ],
+            "name": "袴飾り"
+        },
+        {
+            "image": "syougatu2023/akibako/ribon/hakama_ribon2.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "袴飾り"
+        },
+        {
+            "image": "syougatu2023/akibako/ribon/hakama_ribon3.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "gray_dye"
+            ],
+            "name": "袴飾り"
+        },
+        {
+            "image": "syougatu2023/akibako/ribon/hakama_ribon4.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "purple_dye"
+            ],
+            "name": "袴飾り"
+        },
+        {
+            "image": "syougatu2023/donabe/houki.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ほうき"
+        },
+        {
+            "image": "syougatu2023/donabe/otosidama.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "投げられる",
+            "item_ids": [
+                "egg"
+            ],
+            "name": "お年玉"
+        },
+        {
+            "image": "syougatu2023/donabe/sake-bin.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "andesite"
+            ],
+            "name": "割れたシャンパン"
+        },
+        {
+            "image": "syougatu2023/konbu/hakama_slim1.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "袴1"
+        },
+        {
+            "image": "syougatu2023/konbu/hakama_slim2.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "袴2"
+        },
+        {
+            "image": "syougatu2023/konbu/hakama_slim3.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "袴3"
+        },
+        {
+            "image": "syougatu2023/konbu/kimono_slim1.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "着物1"
+        },
+        {
+            "image": "syougatu2023/konbu/kimono_slim2.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "着物2"
+        },
+        {
+            "image": "syougatu2023/kouno78/k_akatyoutin.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "lantern"
+            ],
+            "name": "赤提灯"
+        },
+        {
+            "image": "syougatu2023/kouno78/k_kadomatsu.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "bamboo"
+            ],
+            "name": "極限門松"
+        },
+        {
+            "image": "syougatu2023/kouno78/k_kushiaka.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "くし飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/k_kushiki.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "yellow_dye"
+            ],
+            "name": "くし飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/k_kushikuro.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "black_dye"
+            ],
+            "name": "くし飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/k_zouri.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "草履"
+        },
+        {
+            "image": "syougatu2023/kouno78/kanzashi/k_gonk.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "bamboo"
+            ],
+            "name": "金霊飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/kanzashi/k_gutik.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "bamboo"
+            ],
+            "name": "仙人掌飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/kanzashi/k_pyonk.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "bamboo"
+            ],
+            "name": "兎飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/kanzashi/k_somek.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "bamboo"
+            ],
+            "name": "筋肉飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/kanzashi/k_tarak.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "bamboo"
+            ],
+            "name": "鱈子飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/kanzashi/k_yakik.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "bamboo"
+            ],
+            "name": "企鵝飾り"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_ajigamotos.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "口福な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_gozens.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "祝い膳な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_hapikuris.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "至福な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_kings.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "帝な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_nijis.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "七福な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_ojousamas.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "おひいさまな扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_suiparas.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "銘菓な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_syukujos.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "風水開運な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_urenokoris.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "余物に福ありな扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_whites.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "四葉な扇子"
+        },
+        {
+            "image": "syougatu2023/kouno78/sensu/k_yufukus.mng",
+            "event": "syougatu2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "富裕な扇子"
+        },
+        {
+            "image": "syougatu2023/maimomiji/hakama_ki.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "袴黄"
+        },
+        {
+            "image": "syougatu2023/maimomiji/hakama_mon.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "袴紋"
+        },
+        {
+            "image": "syougatu2023/maimomiji/miko_aka.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "巫女赤"
+        },
+        {
+            "image": "syougatu2023/maimomiji/miko_midori.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "巫女緑"
+        },
+        {
+            "image": "syougatu2023/natto/kimonoyufuku.mng",
+            "event": "syougatu2023",
+            "category": "アイテム",
+            "note": "スキン配布マネキン",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "着物裕福"
+        },
+        {
             "creators": [
                 "nattoAMAI"
             ],

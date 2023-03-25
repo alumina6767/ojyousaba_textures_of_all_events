@@ -1,1 +1,1 @@
-{"parent": "./leg", "textures": {"0": "./yellow"}}
+{"parent": "./leg", "textures": {"0": "./yellow","particle":"./body1"}}
