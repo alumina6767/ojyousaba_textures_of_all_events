@@ -13,6 +13,7 @@ jobs:
         with:
           packsquash_version: latest
           options: |
+            pack_directory = '.'
             allow_mods = ['OptiFine']
             maximum_width_and_height = 8192
   release:
