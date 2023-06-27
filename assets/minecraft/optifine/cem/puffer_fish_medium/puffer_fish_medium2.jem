@@ -1,0 +1,93 @@
+{
+	"credit": "Made by alumina6767 with Blockbench",
+	"texture": "puffer_fish_small/medama.png",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-6, -5, -5.75, 12, 12, 12],
+					"uvNorth": [8, 8, 16, 16],
+					"uvEast": [0, 8, 8, 16],
+					"uvSouth": [24, 8, 32, 16],
+					"uvWest": [16, 8, 24, 16],
+					"uvUp": [16, 8, 8, 0],
+					"uvDown": [24, 0, 16, 8]
+				},
+				{
+					"coordinates": [-5, -4, -6.75, 10, 10, 1],
+					"uvNorth": [1, 17, 7, 23],
+					"uvEast": [0, 17, 1, 23],
+					"uvSouth": [8, 17, 14, 23],
+					"uvWest": [7, 17, 8, 23],
+					"uvUp": [7, 17, 1, 16],
+					"uvDown": [13, 16, 7, 17]
+				}
+			]
+		},
+		{
+			"part": "fin_right",
+			"id": "fin_right",
+			"invertAxis": "xy",
+			"translate": [-2.5, -6, 1.5]
+		},
+		{
+			"part": "fin_left",
+			"id": "fin_left",
+			"invertAxis": "xy",
+			"translate": [2.5, -6, 1.5]
+		},
+		{
+			"part": "spikes_front_top",
+			"id": "spikes_front_top",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "spikes_back_top",
+			"id": "spikes_back_top",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "spikes_front_right",
+			"id": "spikes_front_right",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "spikes_back_right",
+			"id": "spikes_back_right",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "spikes_front_left",
+			"id": "spikes_front_left",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "spikes_back_left",
+			"id": "spikes_back_left",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "spikes_front_bottom",
+			"id": "spikes_front_bottom",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "spikes_back_bottom",
+			"id": "spikes_back_bottom",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"credit": "Made by alumina6767 with Blockbench",
+	"texture": "medama.png",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, -3, -3.75, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-3, -2, -4.75, 6, 6, 1], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, -1, -1.5]
+		},
+		{
+			"part": "fin_right",
+			"id": "fin_right",
+			"invertAxis": "xy",
+			"translate": [-1.5, -1, 1.5]
+		},
+		{
+			"part": "fin_left",
+			"id": "fin_left",
+			"invertAxis": "xy",
+			"translate": [1.5, -1, 1.5]
+		},
+		{
+			"part": "eye_right",
+			"id": "eye_right",
+			"invertAxis": "xy",
+			"translate": [0, -3, 0]
+		},
+		{
+			"part": "eye_left",
+			"id": "eye_left",
+			"invertAxis": "xy",
+			"translate": [0, -3, 0]
+		}
+	]
+}
