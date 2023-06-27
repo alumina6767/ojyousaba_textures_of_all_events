@@ -12,6 +12,9 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
+          options: |
+            pack_directory = '.'
+            output_file_path = '/tmp/pack.zip'
   release:
     runs-on: ubuntu-latest
     needs: [packsquash]
