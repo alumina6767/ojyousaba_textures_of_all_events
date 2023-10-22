@@ -1,0 +1,10 @@
+{
+	"parent":"./denkyuu",
+	"textures": {
+		"1": "./denkyuu",
+		"2": "./sutoro_blue",
+		"3": "./denkyuu_garasu",
+		"4": "./drink_blue",
+		"particle": "./denkyuu_garasu"
+	}
+}

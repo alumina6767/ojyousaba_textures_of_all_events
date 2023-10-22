@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./kozenikukki-",
+		"particle": "./kozenikukki-"
+	},
+	"elements": [
+		{
+			"from": [4.5, 0, 6.5],
+			"to": [11.5, 10, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.5, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [0.625, 0.5, 9.875, 15], "texture": "#0"},
+				"east": {"uv": [10.875, 0.5, 15.375, 14.875], "texture": "#0"},
+				"south": {"uv": [11, 3.875, 13, 11.375], "texture": "#0"},
+				"west": {"uv": [11.125, 4, 13, 11.25], "texture": "#0"},
+				"up": {"uv": [1, 0.625, 9.625, 5.75], "texture": "#0"},
+				"down": {"uv": [11.125, 4, 12.875, 11.25], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.25, -0.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.25, -0.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [172.5, 57.75, -180],
+			"translation": [0, 8, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [172.5, 57.75, -180],
+			"translation": [0, 8, 0]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [-180, 21.25, -180],
+			"translation": [0, 4.25, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"head": {
+			"translation": [0, 15, 0]
+		},
+		"fixed": {
+			"translation": [-0.25, 5.25, -0.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

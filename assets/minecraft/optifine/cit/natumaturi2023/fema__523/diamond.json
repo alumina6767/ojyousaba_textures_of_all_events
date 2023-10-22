@@ -1,0 +1,6 @@
+{
+	"parent": "./emblem",
+	"textures": {
+		"layer0": "./diamond"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "./karu-oniku",
+	"display": {
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [-1, 2.75, 0]
+		}
+	}
+}

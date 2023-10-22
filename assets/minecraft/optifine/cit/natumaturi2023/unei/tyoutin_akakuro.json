@@ -1,0 +1,9 @@
+{
+	"credit": "Made by re_veil with Blockbench",
+	"parent": "./tyoutin_aka",
+	"textures": {
+		"1": "./usagi_aka",
+		"2": "./tyoutin_akakuro",
+		"particle": "./tyoutin_akakuro"
+	}
+}

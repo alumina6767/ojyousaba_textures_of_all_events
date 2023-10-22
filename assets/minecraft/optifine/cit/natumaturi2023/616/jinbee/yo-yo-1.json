@@ -1,0 +1,7 @@
+{
+	"parent": "./yo-yo-",
+	"textures": {
+		"0": "./yo-yo-1",
+		"particle": "./yo-yo-1"
+	}
+}
