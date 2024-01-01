@@ -1,0 +1,7 @@
+{
+	"parent": "./genaka",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./genmizu"
+	}
+}

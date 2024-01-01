@@ -1,0 +1,7 @@
+{
+	"parent":"./sedaka",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "./sedmu"
+	}
+}

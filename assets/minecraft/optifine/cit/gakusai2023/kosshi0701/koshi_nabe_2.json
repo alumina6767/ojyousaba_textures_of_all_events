@@ -1,0 +1,15 @@
+{
+    "parent": "./koshi_nabe_1",
+    "textures": {
+		"0": "./koshi_nabe_0",
+		"1": "./koshi_nabe_2",
+		"particle": "./koshi_nabe_2"
+    },
+    "display": {
+        "fixed": {
+            "rotation": [90, -87.75, -180],
+            "translation": [-1.5, -0.75, -20.5],
+            "scale": [2.58, 2.58, 2.58]
+        }
+    }
+}

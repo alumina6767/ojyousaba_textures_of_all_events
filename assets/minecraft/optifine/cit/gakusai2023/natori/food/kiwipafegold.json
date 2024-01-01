@@ -1,0 +1,7 @@
+{
+	"parent":"./kiwipafe",
+	"textures": {
+		"1": "./kiwipafe2",
+		"particle": "./kiwipafe2"
+	}
+}

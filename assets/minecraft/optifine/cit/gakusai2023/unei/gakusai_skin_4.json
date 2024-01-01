@@ -1,0 +1,7 @@
+{
+	"parent": "./gakusai_skin",
+	"textures": {
+		"0": "./princess_crew",
+		"particle": "./princess_crew"
+	}
+}

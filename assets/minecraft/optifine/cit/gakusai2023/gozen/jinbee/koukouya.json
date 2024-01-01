@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./koukouya",
+		"particle": "./koukouya"
+	},
+	"elements": [
+		{
+			"from": [0, 2, 7],
+			"to": [16, 10, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#0"},
+				"up": {"uv": [16, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [66, 0, 0],
+			"translation": [-6, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [66, 0, 0],
+			"translation": [-6, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [180, 0, 180],
+			"translation": [-9, 8.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [180, 0, 180],
+			"translation": [-9, 8.25, 0]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1.75, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"head": {
+			"translation": [0, 24.25, 0],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"scale": [3, 3, 3]
+		}
+	}
+}

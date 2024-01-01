@@ -1,0 +1,8 @@
+{
+	"parent": "./openaka",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./openku",
+		"particle":  "./openku"
+	}
+}

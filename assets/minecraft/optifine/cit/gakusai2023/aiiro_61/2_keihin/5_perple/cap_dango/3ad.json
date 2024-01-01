@@ -1,0 +1,11 @@
+{
+	"parent": "./2md",
+	"credit": "Made by aiiro61 with Blockbench",
+	"textures": {
+		"0": "./k",
+		"1": "./3ad/d",
+		"2": "./3ad/m",
+		"3": "./ks",
+		"particle": "./k"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made by alumina6767 with Blockbench",
+	"parent": "./syaketrophy",
+	"textures": {
+		"2": "./kinsyaketrophy",
+		"particle": "./kinsyaketrophy"
+	}
+}

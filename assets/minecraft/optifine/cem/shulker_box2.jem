@@ -1,0 +1,61 @@
+{
+	"credit": "Made by _616_ with Blockbench",
+	"texture": "shulker_box2.png",
+	"textureSize": [256, 256],
+	"models": [
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-8, 1, -8, 16, 20, 16], "textureOffset": [68, 68]},
+				{"coordinates": [-7, 19, -7, 14, 3, 14], "textureOffset": [66, 0]},
+				{"coordinates": [-8, 2, -9, 16, 18, 18], "textureOffset": [0, 51]},
+				{"coordinates": [-9, 2, -8, 18, 18, 16], "textureOffset": [64, 35]},
+				{"coordinates": [0, 22, 5, 1, 2, 1], "textureOffset": [0, 6]},
+				{"coordinates": [0, 22, -1, 1, 2, 1], "textureOffset": [5, 5]},
+				{"coordinates": [0, 22, -6, 1, 2, 1], "textureOffset": [5, 2]},
+				{"coordinates": [0, 15, -11, 1, 1, 2], "textureOffset": [0, 3]},
+				{"coordinates": [-1, 16, 9, 1, 1, 2], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"id": "otete1",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [0, 8, -14, 5, 5, 7], "textureOffset": [0, 86]}
+					]
+				},
+				{
+					"id": "otete2",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [0, 8, 7, 5, 5, 7], "textureOffset": [81, 17]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"otete1.rx": "if(time%1000<300, 0.05*sin(time/3%(pi*2.0)),0.0)",
+					"otete2.rx": "if(time%1000<300,-0.05*sin(time/3%(pi*2.0)),0.0)"
+				},
+				{
+					"lid.sy": "((lid.ry*lid.ry)/20.0)+1.0"
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-10, 0, -10, 20, 7, 20], "textureOffset": [0, 138]},
+				{"coordinates": [-11, 7, -11, 22, 2, 22], "textureOffset": [0, 102]}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "./pk",
+	"credit": "Made by aiiro61 with Blockbench",
+	"texture_size": [80, 80],
+	"textures": {
+		"1": "./kpk",
+		"particle": "./kpk"
+	}
+}

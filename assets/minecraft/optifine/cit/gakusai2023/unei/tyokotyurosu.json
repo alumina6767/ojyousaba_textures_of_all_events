@@ -1,0 +1,7 @@
+{
+	"parent": "./tyurosunormal",
+	"textures": {
+		"0": "./tyokotyurosu",
+		"particle": "./tyokotyurosu"
+	}
+}

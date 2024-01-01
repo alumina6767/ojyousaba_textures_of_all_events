@@ -1,0 +1,8 @@
+{
+	"parent":"./banaka",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "./banmi",
+		"particle":  "./banmi"
+	}
+}
