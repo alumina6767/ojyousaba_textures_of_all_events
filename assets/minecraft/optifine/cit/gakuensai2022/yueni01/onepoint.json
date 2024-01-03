@@ -1,6 +1,6 @@
 {
 	"credit": "Made by yueni01",
-	"texture_size": [1024, 1024],
+	"texture_size": [512, 320],
 	"textures": {
 		"1": "./onepoint",
 		"particle": "./onepoint"
@@ -11,12 +11,12 @@
 			"to": [14.5, 10.8, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 7.5, 7.5]},
 			"faces": {
-				"north": {"uv": [0, 2.35636, 16, 12.37818], "texture": "#1"},
-				"east": {"uv": [0, 0, 16, 2.56182], "texture": "#1"},
-				"south": {"uv": [0, 0, 16, 2.50364], "texture": "#1"},
-				"west": {"uv": [0, 0, 16, 2.47636], "texture": "#1"},
-				"up": {"uv": [16, 2.34727, 0, 0], "texture": "#1"},
-				"down": {"uv": [16, 0, 0, 2.44], "texture": "#1"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 4.05582, 16, 0.05], "texture": "#1"},
+				"south": {"uv": [0, 4.05582, 16, 0.05], "texture": "#1"},
+				"west": {"uv": [0, 4.05582, 16, 0.05], "texture": "#1"},
+				"up": {"uv": [0, 4.05582, 16, 0.05], "texture": "#1"},
+				"down": {"uv": [0, 4.05582, 16, 0.05], "texture": "#1"}
 			}
 		}
 	],
