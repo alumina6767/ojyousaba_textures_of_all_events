@@ -2930,6 +2930,16 @@
             "name": "gaming_alumina"
         },
         {
+            "image": "etc/kouno78_hbd2023/cake_kouno.mng",
+            "creators": [
+                "natori7106"
+            ],
+            "item_ids": [
+                "cake"
+            ],
+            "name": "kouno78生誕祭2023おめでとうタルト"
+        },
+        {
             "creators": [
                 "re_veil"
             ],
@@ -3277,7 +3287,10 @@
             "item_ids": [
                 "glass_bottle"
             ],
-            "name": "シャンパングラス."
+            "name": "シャンパングラス.",
+            "nbts": [
+                " nbt.Potion=minecraft:water"
+            ]
         },
         {
             "creators": [
@@ -3413,7 +3426,8 @@
             ],
             "name": "20Ne",
             "nbts": [
-                "nbt.Potion=minecraft:night_vision"
+                "nbt.Potion=minecraft:night_vision",
+                " nbt.Potion=minecraft:water"
             ]
         },
         {
@@ -3429,7 +3443,8 @@
             ],
             "name": "なかなか届かない20Neの代わり(青)",
             "nbts": [
-                "nbt.Potion=minecraft:swiftness"
+                "nbt.Potion=minecraft:swiftness",
+                " nbt.Potion=minecraft:water"
             ]
         },
         {
@@ -3445,7 +3460,8 @@
             ],
             "name": "なかなか届かない20Neの代わり(赤)",
             "nbts": [
-                "nbt.Potion=minecraft:healing"
+                "nbt.Potion=minecraft:healing",
+                " nbt.Potion=minecraft:water"
             ]
         },
         {
@@ -3863,6 +3879,10 @@
             "item_ids": [
                 "leather_helmet"
             ],
+            "etc": [
+                " weight=1"
+            ],
+            "weight": "1",
             "name": "ガンマサングラス"
         },
         {
@@ -3876,6 +3896,10 @@
             "item_ids": [
                 "leather_helmet"
             ],
+            "etc": [
+                " weight=1"
+            ],
+            "weight": "1",
             "name": "ガンマサングラス"
         },
         {
@@ -4351,6 +4375,9 @@
                 "diamond_axe"
             ],
             "name": "裕福な釘バット-ふつう-",
+            "nbts": [
+                " nbt.Enchantments.2.id=minecraft:unbreaking"
+            ],
             "etc": [
                 "enchantments=mending",
                 "enchantmentLevels=1",
@@ -10958,6 +10985,4267 @@
             "name": "泥酔のもと"
         },
         {
+            "image": "gakuensai2023/aiiro_61/0_mato/147.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone"
+            ],
+            "name": "147"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/0_mato/258.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone"
+            ],
+            "name": "258"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/0_mato/369.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone"
+            ],
+            "name": "369"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/1_kuji/g.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "緑"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/1_kuji/k.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "黄色"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/1_kuji/p.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "ピンク"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/1_kuji/pa.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "紫"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/1_hannbai/kamakura.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "うさぎハウス"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/1_hannbai/nanikore.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "わぁ"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/2_pink/1us/u_us.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "うちわ（うさぎ）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/2_pink/2ha/u_ha.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "うちわ（ハート）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/2_pink/3sr/sr.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "しろねこカチューシャ"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/2_pink/4kr/kr.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "くろねこカチューシャ"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/3_yellow/1ken/ba_k.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone_sword"
+            ],
+            "name": "バルーンアート（剣）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/3_yellow/2ono/ba_o.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone_axe"
+            ],
+            "name": "バルーンアート（斧）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/3_yellow/3pikkeru/ba_p.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone_pickaxe"
+            ],
+            "name": "バルーンアート（ピッケル）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/3_yellow/4syaberu/ba_s.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone_shovel"
+            ],
+            "name": "バルーンアート（シャベル）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/3_yellow/5kuwa/ba_kw.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stone_hoe"
+            ],
+            "name": "バルーンアート（クワ）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/4_green/1ustp/ut.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "うさタピ"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/4_green/2nktp/nk.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "ねこタピ"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/4_green/3intp/in.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "いぬタピ"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/4_green/5m/rb_m.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "リストバンド（緑）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/4_green/6w/rb_w.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "リストバンド（白）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/4_green/7b/rb_b.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "リストバンド（黒）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/5ah/ah.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "あまいほっとけーき"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/6anh/anh.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "あまくないほっとけーき"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/cap_dango/2md.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "カップ団子（みたらし）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/cap_dango/3ad.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "カップ団子（こしあん）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/cap_dango/4tad.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "カップ団子（つぶあん）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/pk/kpk.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "ポップコーン（キャラメル）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/pk/pk.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "ポップコーン（バター）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/2_keihin/5_perple/pk/spk.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "ポップコーン（塩）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/hibaihin/nd.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "ねこタピ（非売品）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/hibaihin/pd.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "うさタピ（非売品）"
+        },
+        {
+            "image": "gakuensai2023/aiiro_61/hibaihin/wd.mng",
+            "creators": [
+                "aiiro61"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "いぬタピ（非売品）"
+        },
+        {
+            "image": "gakuensai2023/akibako/alice.mng",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "アリス"
+        },
+        {
+            "image": "gakuensai2023/akibako/bag_smartphone.mng",
+            "item_ids": [
+                "quartz"
+            ],
+            "name": "アリスのスマホ"
+        },
+        {
+            "image": "gakuensai2023/akibako/bakeblock.mng",
+            "item_ids": [
+                "black_concrete"
+            ],
+            "name": "偽物コンクリート"
+        },
+        {
+            "image": "gakuensai2023/akibako/blue_door.mng",
+            "item_ids": [
+                "birch_door"
+            ],
+            "name": "青色のドア"
+        },
+        {
+            "image": "gakuensai2023/akibako/bug.mng",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "バグ"
+        },
+        {
+            "image": "gakuensai2023/akibako/cheshirecat.mng",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "チェシャ猫"
+        },
+        {
+            "image": "gakuensai2023/akibako/kanban.mng",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "lRaの看板"
+        },
+        {
+            "image": "gakuensai2023/akibako/keihin.mng",
+            "item_ids": [
+                "raw_copper"
+            ],
+            "name": "アリスのカチューシャ"
+        },
+        {
+            "image": "gakuensai2023/akibako/pink_door.mng",
+            "item_ids": [
+                "birch_door"
+            ],
+            "name": "ピンクのドア"
+        },
+        {
+            "image": "gakuensai2023/akibako/rabbit_alice.mng",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "白うさぎ"
+        },
+        {
+            "image": "gakuensai2023/akibako/trumpsoldier.mng",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "トランプ兵"
+        },
+        {
+            "image": "gakuensai2023/akibako/warm.mng",
+            "item_ids": [
+                "stick"
+            ],
+            "name": "イモムシ"
+        },
+        {
+            "image": "gakuensai2023/gozen/jinbee/donbei_97koiri.mng",
+            "creators": [
+                "jinbee_same"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "登山用どん兵衛97個入りバッグ"
+        },
+        {
+            "image": "gakuensai2023/gozen/jinbee/hikouki.mng",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "飛行機"
+        },
+        {
+            "image": "gakuensai2023/gozen/jinbee/hokkaido.mng",
+            "creators": [
+                "jinbee_same"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "北海道はでっかいど"
+        },
+        {
+            "image": "gakuensai2023/gozen/jinbee/katamari.mng",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "塊魂"
+        },
+        {
+            "image": "gakuensai2023/gozen/jinbee/katamari2.mng",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "塊魂-Gold-"
+        },
+        {
+            "image": "gakuensai2023/gozen/jinbee/koukouya.mng",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "すきすきじい"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/kattekite.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "name": "焼きそばパン買ってきてくださる？"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/ojikan.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "name": "ちょっとお時間いいかしら？"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/tuitekite.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "name": "私についてきてくださる？"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/dbd-light/dbd-light.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "霧の森のまぶしすぎるライト"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/sunglasses/sunglasses-genpyon.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "げんぴょんサングラス"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/sunglasses/sunglasses-gonkane.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ごんかねサングラス"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/sunglasses/sunglasses-gutitubo.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ぐちつぼサングラス"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/sunglasses/sunglasses-nsome.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "んそめサングラス"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/sunglasses/sunglasses-tarako.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "category": "アクセサリー",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "たらこサングラス"
+        },
+        {
+            "image": "gakuensai2023/gozen/kumayuki/sunglasses/sunglasses-yakipan.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "焼きパンサングラス"
+        },
+        {
+            "image": "gakuensai2023/gozen/marubatsu/marubatsu.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "shield"
+            ],
+            "name": "ipattern:〇×スティック"
+        },
+        {
+            "image": "gakuensai2023/gozen/one_dollar/one_dollar.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "挟まってるお札"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/consome/consome_mini.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "んそめといっしょ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/genpyon/genpyon_mini.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "げんぴょんといっしょ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/gonkane/gonkane_biyon.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ごんかねのびー"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/gonkane/gonkane_eat.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ごんかねパクッ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/gonkane/gonkane_mini.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ごんかねといっしょ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/gutitubo/guti_biyon.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ぐちつぼナガイネ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/gutitubo/guti_mini.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ぐちつぼといっしょ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/tarako/guti_mini.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "たらこといっしょ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/yakipen/yakipen_biyon.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "焼きパンびよん"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/mini/yakipen/yakipen_mini.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "焼きパンといっしょ"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/penlight/consome/consome_pl.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "んそめペンライト"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/penlight/genpyon/genpyon_pl.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "げんぴょんペンライト"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/penlight/gonkane/gonkane_pl.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ごんかねペンライト"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/penlight/gutitubo/guti_pl.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ぐちつぼペンライト"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/penlight/tarako/tarako_pl.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "たらこペンライト"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/penlight/yakipen/yakipen_pl.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "焼きパンペンライト"
+        },
+        {
+            "image": "gakuensai2023/gozen/teris/umeonigiri/umeonigiri.mng",
+            "creators": [
+                "terisfeyn"
+            ],
+            "item_ids": [
+                "bread"
+            ],
+            "name": "梅おにぎり"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banaka.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(赤)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banao.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(青)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banie.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(黄)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banku.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(黒)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banmi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(緑)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banmizu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(水)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banmu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(紫)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/banpi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(桃)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/ban/bansi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバン(白)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/biao.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(青)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikeaka.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(赤)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikeie.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(黄)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikeku.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(黒)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikemi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(緑)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikemizu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(水)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikemu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(紫)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikepi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(桃)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/bike/bikesi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(白)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genaka.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(赤)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genao.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(青)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genie.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(黄)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genku.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(黒)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genmi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(緑)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genmizu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(水)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genmu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(紫)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/genpi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(桃)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/gen/gensi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUスクーター(白)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konaka.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(赤)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konao.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(青)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konie.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(黄)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konku.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(黒)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konmi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(緑)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konmizu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(水)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konmu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(紫)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konpi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(桃)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/kon/konsi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUコンパクト(白)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openaka.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(赤)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openao.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(青)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openie.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(黄)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openku.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(黒)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openmi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(緑)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openmizu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(水)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openmu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(紫)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/openpi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(桃)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/open/opensi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUオープン(白)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedaka.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(赤)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedao.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(青)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedie.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(黄)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedku.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(黒)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedmi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(緑)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedmizu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(水)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedmu.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(紫)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedpi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(桃)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/sed/sedsi.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUセダン(白)"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/singou/singoua.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "etc": [
+                "damage=0-30%"
+            ],
+            "damage": "0-30%",
+            "item_ids": [
+                "diamond_sword",
+                "netherite_sword",
+                "diamond_axe",
+                "netherite_axe"
+            ],
+            "name": "渋滞解消信号剣"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/singou/singour.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "etc": [
+                "damage=60-100%"
+            ],
+            "damage": "60-100%",
+            "item_ids": [
+                "diamond_sword",
+                "netherite_sword",
+                "diamond_axe",
+                "netherite_axe"
+            ],
+            "name": "渋滞解消信号剣"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/singou/singouy.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "etc": [
+                "damage=30-60%"
+            ],
+            "damage": "30-60%",
+            "item_ids": [
+                "diamond_sword",
+                "netherite_sword",
+                "diamond_axe",
+                "netherite_axe"
+            ],
+            "name": "渋滞解消信号剣"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/toku/dera/dera.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUデラックソ"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/toku/dero/dero.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUデロリアン"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/toku/komono/kanban/kanban.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BU"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/toku/noob/noob.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "HIMAJIN-BU-BU"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/toku/pato/pato.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUパトカー"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/toku/tako/dero.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "NIGAMI-BU-BU"
+        },
+        {
+            "image": "gakuensai2023/himajinoob/toku/unei/unei.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "GAKUEN-BU-BU"
+        },
+        {
+            "image": "gakuensai2023/konbu0202/siiiiisya.mng",
+            "creators": [
+                "konbu0202"
+            ],
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "ぴょんぺしゃんぺしーしゃ"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_ash.mng",
+            "item_ids": [
+                "crossbow"
+            ],
+            "name": "アッシュのライフル"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_gutisword.mng",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "勇者ぐちツボの剣"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_hammer_1.mng",
+            "item_ids": [
+                "diamond_axe"
+            ],
+            "name": "ラインハルトハンマー"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_1.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "真新しいほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_2.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "くるくるほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_3.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "いい感じなほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_4.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "最新型ほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_5.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "しっかりしたほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_6.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "とげありとげなしほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_7.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "いにしえのほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_houki_8.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "ひねくれたほうき"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_kamado_1.mng",
+            "item_ids": [
+                "iron_ingot"
+            ],
+            "name": "魔法のかまど左"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_kamado_2.mng",
+            "item_ids": [
+                "copper_ingot"
+            ],
+            "name": "魔法のかまど右"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_kaneslime.mng",
+            "item_ids": [
+                "copper_ingot"
+            ],
+            "name": "ゴンカネスライム"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_mashi.mng",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "マーシーの杖"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_nabe_1.mng",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "調理鍋（緑）",
+            "nbts": [
+                "nbt.Potion=minecraft:water"
+            ]
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_nabe_2.mng",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "調理鍋（青）",
+            "nbts": [
+                "nbt.Potion=minecraft:water"
+            ]
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_nabe_3.mng",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "調理鍋（桃）",
+            "nbts": [
+                "nbt.Potion=minecraft:water"
+            ]
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_nabe_4.mng",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "調理鍋（赤）",
+            "nbts": [
+                "nbt.Potion=minecraft:water"
+            ]
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_pack.mng",
+            "item_ids": [
+                "copper_ingot"
+            ],
+            "name": "回復パック"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_pyon_tue.mng",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "黒魔導士げんぴょんの杖"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_some_sword.mng",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "戦士こんそめの大剣"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_tara_glove_1.mng",
+            "item_ids": [
+                "iron_axe"
+            ],
+            "name": "武道家たらこのグローブ",
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_tara_glove_2.mng",
+            "item_ids": [
+                "iron_axe"
+            ],
+            "name": "武道家たらこのグローブ",
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off"
+        },
+        {
+            "image": "gakuensai2023/kosshi0701/koshi_yaki_tue.mng",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "賢者焼きパンの杖"
+        },
+        {
+            "image": "gakuensai2023/kouno78/ayasiiflask.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "怪しいフラスコ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/crystal_blue.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "青の輝石"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/crystal_green.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "緑の輝石"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/crystal_orange.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "橙の輝石"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/crystal_purple.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "紫の輝石"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/crystal_red.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "赤の輝石"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/crystal_yellow.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "黄の輝石"
+        },
+        {
+            "image": "gakuensai2023/kouno78/fusiginaflask.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "不思議なフラスコ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_denwa.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "壁掛け銅電話"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_flask_aka.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "赤輝石フラスコ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_flask_ao.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "青輝石フラスコ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_flask_daidai.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "橙輝石フラスコ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_flask_ki.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "黄輝石フラスコ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_flask_midori.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "緑輝石フラスコ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_flask_murasaki.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "紫輝石フラスコ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_gantai.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "空硝子のモノクル"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_goguru.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "トカゲ皮のゴーグル"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_haguruma.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "何かの歯車"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_hane_aka.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "赤の機械翼"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_hane_ao.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "青の機械翼"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_hane_daidai.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "橙の機械翼"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_hane_ki.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "黄の機械翼"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_hane_midori.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "緑の機械翼"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_hane_murasaki.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "紫の機械翼"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_masuku.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "赤のペストマスク"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_neji.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ぐるぐるネジ巻き"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_neji1.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ネジ巻き"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paipuchi.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプチ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paipuha.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプハ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paipuhe.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプヘ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paipuho.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプホ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paipui.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプイ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paipuni.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプ二"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paipuro.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプロ"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_paiputo.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パイプト"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_pengin.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "歯車ぺんぎん"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_sirukuhat.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ゴーグル付きハット"
+        },
+        {
+            "image": "gakuensai2023/kouno78/k_usagi.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "歯車うさぎ"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/lantern_blue.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "青輝石のランタン"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/lantern_green.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "緑輝石のランタン"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/lantern_orange.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "橙輝石のランタン"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/lantern_purple.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "紫輝石のランタン"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/lantern_red.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "赤輝石のランタン"
+        },
+        {
+            "creators": [
+                "re_veil"
+            ],
+            "image": "gakuensai2023/kouno78/lantern_yellow.mng",
+            "event": "gakusai2023",
+            "category": "アイテム",
+            "note": "2Dアニメーション",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "黄輝石のランタン"
+        },
+        {
+            "image": "gakuensai2023/kouno78/okasinaflask.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "おかしなフラスコ"
+        },
+        {
+            "image": "gakuensai2023/kumayuki/kinsyaketrophy.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "gold_nugget"
+            ],
+            "name": "金鮭のトロフィー"
+        },
+        {
+            "image": "gakuensai2023/kumayuki/kumanote.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "netherite_pickaxe"
+            ],
+            "name": "くまの手"
+        },
+        {
+            "image": "gakuensai2023/kumayuki/kushisyake.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "salmon"
+            ],
+            "name": "串打ちした鮭"
+        },
+        {
+            "image": "gakuensai2023/kumayuki/syaketrophy.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "鮭のトロフィー"
+        },
+        {
+            "image": "gakuensai2023/kumayuki/takezao.mng",
+            "creators": [
+                "kumayuki0929"
+            ],
+            "item_ids": [
+                "fishing_rod"
+            ],
+            "name": "貸出用釣竿",
+            "nbts": [
+                "nbt.Enchantments.*=raw:{id:\"minecraft:mending\",lvl:1s}",
+                "nbt.Enchantments.1=exists:false"
+            ]
+        },
+        {
+            "category": "武器",
+            "image": "gakuensai2023/mimi/alumina.mng",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=rs"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "category": "武器",
+            "image": "gakuensai2023/mimi/consome.mng",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=ts"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "category": "武器",
+            "image": "gakuensai2023/mimi/gakutyo.mng",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=ms"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "creators": [
+                "mimi_09876543"
+            ],
+            "image": "gakuensai2023/mimi/genpyon.mng",
+            "event": "夏祭り2023",
+            "category": "武器",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "etc": [
+                "weight=1"
+            ],
+            "weight": "1"
+        },
+        {
+            "event": "夏祭り2023",
+            "image": "gakuensai2023/mimi/gonkane.mng",
+            "category": "武器",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=tr"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "event": "夏祭り2023",
+            "image": "gakuensai2023/mimi/gutitubo.mng",
+            "category": "武器",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=tl"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "event": "夏祭り2023",
+            "image": "gakuensai2023/mimi/kashinomi.mng",
+            "category": "武器",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=12",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=mr",
+                "nbt.BlockEntityTag.Patterns.1.Color=12",
+                "nbt.BlockEntityTag.Patterns.1.Pattern=hhb",
+                "nbt.BlockEntityTag.Patterns.2.Color=12",
+                "nbt.BlockEntityTag.Patterns.2.Pattern=ms",
+                "nbt.BlockEntityTag.Patterns.3.Color=0",
+                "nbt.BlockEntityTag.Patterns.3.Pattern=cbo",
+                "nbt.BlockEntityTag.Patterns.4.Color=0",
+                "nbt.BlockEntityTag.Patterns.4.Pattern=bo"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "category": "武器",
+            "image": "gakuensai2023/mimi/kimotara.mng",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=ls"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "category": "武器",
+            "image": "gakuensai2023/mimi/kouno.mng",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=6",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=ts",
+                "nbt.BlockEntityTag.Patterns.1.Color=0",
+                "nbt.BlockEntityTag.Patterns.1.Pattern=hh"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "event": "夏祭り2023",
+            "image": "gakuensai2023/mimi/yakipan.mng",
+            "category": "武器",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=bs"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "event": "夏祭り2023",
+            "image": "gakuensai2023/mimi/yueni.mng",
+            "category": "武器",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "pattern\\:*",
+            "nbts": [
+                "nbt.BlockEntityTag.Patterns.0.Color=0",
+                "nbt.BlockEntityTag.Patterns.0.Pattern=cs"
+            ],
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/aluminachan_material.mng",
+            "name": "ぴゅあほわいと",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/gakutyo.mng",
+            "name": "偉大なネクタイ",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/gonkane_material.mng",
+            "name": "ごんかねインゴット",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/gutitubo_material.mng",
+            "name": "ぐちつぼインゴット",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/kashinomi_material.mng",
+            "name": "まつぼっくり",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/kouno_material.mng",
+            "name": "労束",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/nsome_material.mng",
+            "name": "こんそめナゲット",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/tarako_material.mng",
+            "name": "たらこダイヤモンド",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/yakipan_materrial.mng",
+            "name": "焼きパンエメラルド",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "item_ids": [
+                "white_banner"
+            ],
+            "image": "gakuensai2023/mimi/2d/yueni_material.mng",
+            "name": "犬用リード",
+            "etc": [
+                "weight=2"
+            ],
+            "weight": "2",
+            "creators": [
+                "mimi_09876543"
+            ]
+        },
+        {
+            "image": "gakuensai2023/natori/food/guticake.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "紙ごといけるぐちつぼカップケーキ"
+        },
+        {
+            "image": "gakuensai2023/natori/food/kanemaritoto.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "雑談のお供にごんかねマリトッツォ"
+        },
+        {
+            "image": "gakuensai2023/natori/food/kiwipafe.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "なとりグリーンキーウィパフェ"
+        },
+        {
+            "image": "gakuensai2023/natori/food/kiwipafegold.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "なとりゴールドキーウィパフェ"
+        },
+        {
+            "image": "gakuensai2023/natori/food/moneypan.mng",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "札束サンドイッチ"
+        },
+        {
+            "image": "gakuensai2023/natori/food/pansandice.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "押忍！気合で食べるひんやり焼きパンサンドアイス"
+        },
+        {
+            "image": "gakuensai2023/natori/food/pyonhumburger.mng",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "食べれば増量！げんぴょんバーガー"
+        },
+        {
+            "image": "gakuensai2023/natori/food/somecoffee.mng",
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "ちょっと背伸びしたいんそめコーヒー"
+        },
+        {
+            "image": "gakuensai2023/natori/food/tarapiza.mng",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "梅ねり入りのび～るたらこピザ"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/oni.mng",
+            "item_ids": [
+                "bow"
+            ],
+            "name": "オニヴァンダル"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumukane.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界ツム(ごんかね)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumukane2.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界うごツム(ごんかね)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumukane3.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャル限界ツム(ごんかね)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumupyon.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界ツム(げんぴょん)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumupyon2.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界うごツム(げんぴょん)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumupyon3.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャル限界ツム(げんぴょん)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumusome.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界ツム(んそめ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumusome2.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界うごツム(んそめ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumusome3.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャル限界ツム(んそめ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumutara.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界ツム(たらこ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumutara2.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界うごツム(たらこ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumutara3.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャル限界ツム(たらこ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumutower.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界全員集合！"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumutubo.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界ツム(ぐちつぼ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumutubo2.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界うごツム(ぐちつぼ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumutubo3.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャル限界ツム(ぐちつぼ)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumuyaki.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界ツム(焼きパン)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumuyaki2.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "限界うごツム(焼きパン)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumuyaki3.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャル限界ツム(焼きパン)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuinu/tsumualumina.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "お犬ツム(alumina6767)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuinu/tsumukashinomi.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "お犬ツム(kashinomi0384)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuinu/tsumukosshi.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "お犬ツム(kosshi0701)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuinu/tsumukouno.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "お犬ツム(kouno78)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuinu/tsumunattouamai.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "お犬ツム(nattoAMAI)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuinu/tsumuyueni.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "お犬ツム(yueni01)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumu616.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(_616_)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumuakibako.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(akibako_111)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumuaru.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(aru1193)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumuhimajin.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャルサンクスツム(HIMA_HIMAJIN)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumukohchan.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(KoHchaaan428)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumukonbu.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(konbu0202)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumumameshiba.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(mameshiba)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumumimi.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(mimi09876543)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumunatori.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(natori_7106)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumunigami.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "スペシャルサンクスツム(Ngm_99)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumunukomiko.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(_nukomiko_)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumupiyoyo.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(pyy_oisii)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumuveil.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(re_veil)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumuxabichan.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(xavi_chan)"
+        },
+        {
+            "image": "gakuensai2023/natori/genkaitsumu/tsumu/tsumuunei/tsumuyuchoco.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "聖兎運営ツム2023(yu_chocoholic)"
+        },
+        {
+            "image": "gakuensai2023/natori/hoka/coin.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "きらきらコイン"
+        },
+        {
+            "image": "gakuensai2023/natori/hoka/gatya.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "ガチャポン(赤)"
+        },
+        {
+            "image": "gakuensai2023/natori/hoka/gatya2.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "ガチャポン(青)"
+        },
+        {
+            "image": "gakuensai2023/natori/hoka/gatya3.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "ガチャポン(ピンク)"
+        },
+        {
+            "image": "gakuensai2023/natori/hoka/kanban.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "キーウィ宣伝看板"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/gttbkt.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "メンチ切りカツサンド"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/gyunyu.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "シンプルな牛乳パック"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/ha-bu.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "夕焼けのハーブクーラー"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/himajinbubu.mng",
+            "event": "gakuensai2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "HIMAJINBU-BU看板"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/itigor.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "ふち際ぴょんのいちごオレ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/knsmpn.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "脱出不可？コンソメロンパン"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/kocha.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "夕暮れのアールグレイ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/kohi.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "夜更けのエスプレッソ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/kurowasan.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "兎印の焼きたてクロワッサン"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/kurowasan2.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "サクッと軽いチョコクロワッサン"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/marou.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "potion"
+            ],
+            "name": "夜明けのマロウブルー"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/msbnhmjn.mng",
+            "event": "gakuensai2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "店番黒うさぎ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/msbnngm.mng",
+            "event": "gakuensai2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "居眠りタコ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/natotoripan.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "ちぎってもぎもぎキーウィパン"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/noobnine.mng",
+            "event": "gakuensai2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "NoobNine看板"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/pannoita.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "兎印の耳まで美味しい食パン"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/pizapan.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "兎印の窯焼き風ミニピッツァ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/taiya.mng",
+            "event": "gakuensai2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "積まれたタイヤ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/taiyagnki.mng",
+            "event": "gakuensai2023",
+            "category": "アクセサリー",
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "限界見守りタイヤ"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/tmgnkn.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "たっぷり欲張り！たまごサンド"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/trkr.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "梅ぇ辛口カレーパン"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/ngm/ykpnsnd.mng",
+            "event": "gakuensai2023",
+            "category": "食べ物",
+            "item_ids": [
+                "bread"
+            ],
+            "name": "大人気！そば入り焼きパン"
+        },
+        {
+            "image": "gakuensai2023/only_contest/hima_himajin/anime.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "BU-BUバイク(アニメ)"
+        },
+        {
+            "image": "gakuensai2023/only_contest/hima_himajin/singou-r.mng",
+            "creators": [
+                "HIMA_HIMAJIN"
+            ],
+            "item_ids": [
+                "bow"
+            ],
+            "name": "渋滞発射信号弓"
+        },
+        {
+            "image": "gakuensai2023/only_contest/natori/kiwipai.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "キーウィパイ"
+        },
+        {
+            "image": "gakuensai2023/only_contest/natori/mirrorball.mng",
+            "item_ids": [
+                "torch"
+            ],
+            "name": "ミラーボールパーティーナイト"
+        },
+        {
+            "creators": [
+                "Ngm_99"
+            ],
+            "image": "gakuensai2023/only_contest/ngm_99/baarukamo.mng",
+            "event": "gakuensai2023",
+            "category": "武器",
+            "item_ids": [
+                "diamond_sword",
+                "netherite_sword"
+            ],
+            "name": "バールの様なもの"
+        },
+        {
+            "image": "gakuensai2023/only_contest/pyy_oisii/pyonlove.mng",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "ギュッとげんぴょん"
+        },
+        {
+            "image": "gakuensai2023/only_contest/yueni01/medamayaki.mng",
+            "creators": [
+                "yueni01"
+            ],
+            "item_ids": [
+                "cooked_cod"
+            ],
+            "name": "めだまやき"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/blacksunglasses.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ブラックぴょんグラス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/blacksunglasses2.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ブラックぴょんグラス(おでこ用)"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/bluesunglasses.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ブルーぴょんグラス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/bluesunglasses2.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ブルーぴょんグラス(おでこ用)"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/gamingsunglasses.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ゲーミングぴょんグラス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/gamingsunglasses2.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ゲーミングぴょんグラス(おでこ用)"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/pinksunglasses.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ピンクぴょんグラス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/pinksunglasses2.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ピンクぴょんグラス(おでこ用)"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/purplesunglasses.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パープルぴょんグラス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/nachan/purplesunglasses2.mng",
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "パープルぴょんグラス(おでこ用)"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat/partyhat.mng",
+            "item_ids": [
+                "white_wool"
+            ],
+            "name": "パーティーハット"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat_combex/partyhat_combex.mng",
+            "item_ids": [
+                "blue_wool"
+            ],
+            "name": "パーティーハット青"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat_genpyon/partyhat_genpyon.mng",
+            "item_ids": [
+                "pink_wool"
+            ],
+            "name": "パーティーハット桃"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat_gonkane/partyhat_gonkane.mng",
+            "item_ids": [
+                "orange_wool"
+            ],
+            "name": "パーティーハット橙"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat_gutitubo/partyhat_gutitubo.mng",
+            "item_ids": [
+                "green_wool"
+            ],
+            "name": "パーティーハット緑"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat_nsome/partyhat_nsome.mng",
+            "item_ids": [
+                "yellow_wool"
+            ],
+            "name": "パーティーハット黄"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat_tarako/partyhat_tarako.mng",
+            "item_ids": [
+                "red_wool"
+            ],
+            "name": "パーティーハット赤"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/partyhat/partyhat_yakipan/partyhat_yakipan.mng",
+            "item_ids": [
+                "brown_wool"
+            ],
+            "name": "パーティーハット茶"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/aisingu/aisingucom.mng",
+            "item_ids": [
+                "cornflower"
+            ],
+            "name": "アイシングんべ"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/aisingu/aisinguguti.mng",
+            "item_ids": [
+                "allium"
+            ],
+            "name": "アイシングぐち"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/aisingu/aisingukane.mng",
+            "item_ids": [
+                "lily_of_the_valley"
+            ],
+            "name": "アイシングかね"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/aisingu/aisingupyon.mng",
+            "item_ids": [
+                "dandelion"
+            ],
+            "name": "アイシングぴょん"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/aisingu/aisingusome.mng",
+            "item_ids": [
+                "oxeye_daisy"
+            ],
+            "name": "アイシングそめ"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/aisingu/aisingutara.mng",
+            "item_ids": [
+                "poppy"
+            ],
+            "name": "アイシングたら"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/aisingu/aisinguyaki.mng",
+            "item_ids": [
+                "pink_tulip"
+            ],
+            "name": "アイシングやき"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/cup/cup.mng",
+            "item_ids": [
+                "bowl"
+            ],
+            "name": "アイスカップ"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/cup/ippaicup.mng",
+            "item_ids": [
+                "shulker_shell"
+            ],
+            "name": "いっぱいアイスカップ"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/cup/toruno.mng",
+            "item_ids": [
+                "blaze_rod"
+            ],
+            "name": "ディッシャー"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/bigice/bigice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:15|15b"
+            ],
+            "name": "みんな大集合！アイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/com/comice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:8|8b"
+            ],
+            "name": "ほいっぷマシマシアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/com/comice_okikae.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:8|8b"
+            ],
+            "name": "ほいっぷマシマシアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/guti/gutice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "name": "エナドリがけアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/guti/gutice_okikae.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "etc": [
+                "weight=100"
+            ],
+            "weight": "100",
+            "nbts": [
+                "nbt.Effects.*=",
+                "nbt.Effects.0.EffectId=raw:regex:12|12b"
+            ],
+            "name": "エナドリがけアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/kane/kaneice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "name": "異物混入？アイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/kane/kaneice_okikae.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:19|19b"
+            ],
+            "name": "異物混入？アイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/pyon/pyoice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "name": "ゆめきゃわ～アイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/pyon/pyoice_okikae.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:23|23b"
+            ],
+            "name": "ゆめきゃわ～アイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/some/someice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "name": "もりもり欲張りアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/some/someice_okikae.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:10|10b"
+            ],
+            "name": "もりもり欲張りアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/tara/taraice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "name": "ベリーでキュートなアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/tara/taraice_okikae.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:16|16b"
+            ],
+            "name": "ベリーでキュートなアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/yaki/yakice.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "name": "ぽわぽわーアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/ice/yaki/yakice_okikae.mng",
+            "item_ids": [
+                "suspicious_stew"
+            ],
+            "nbts": [
+                "nbt.Effects.0.EffectId=raw:regex:18|18b"
+            ],
+            "name": "ぽわぽわーアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo/wafflenbe/wafflenbe.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "ざうの肉球ワッフル"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo2/ice/iceitiran.mng",
+            "item_ids": [
+                "bone"
+            ],
+            "name": "アイス一覧1"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo2/ice/iceitiran2.mng",
+            "item_ids": [
+                "bone"
+            ],
+            "name": "アイス一覧2"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo2/ice/iceitiran3.mng",
+            "item_ids": [
+                "bone"
+            ],
+            "name": "アイス一覧3"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo2/sonota/randomice.mng",
+            "item_ids": [
+                "red_mushroom"
+            ],
+            "name": "お任せアイス"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo2/sonota/toppingu.mng",
+            "item_ids": [
+                "brown_mushroom"
+            ],
+            "name": "お任せトッピング"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/piyo2/sonota/yobidasi.mng",
+            "item_ids": [
+                "iron_nugget"
+            ],
+            "name": "呼び出しぴょん"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/sennryou/guti/guti.mng",
+            "item_ids": [
+                "green_dye"
+            ],
+            "name": "緑"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/sennryou/kane/kane.mng",
+            "item_ids": [
+                "orange_dye"
+            ],
+            "name": "橙"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/sennryou/nbe/nbe.mng",
+            "item_ids": [
+                "blue_dye"
+            ],
+            "name": "青"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/sennryou/pyon/pyon.mng",
+            "item_ids": [
+                "pink_dye"
+            ],
+            "name": "桃"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/sennryou/some/some.mng",
+            "item_ids": [
+                "yellow_dye"
+            ],
+            "name": "黄"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/sennryou/tara/tara.mng",
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "赤"
+        },
+        {
+            "image": "gakuensai2023/piyoyoyo/sennryou/yaki/yaki.mng",
+            "item_ids": [
+                "brown_dye"
+            ],
+            "name": "茶"
+        },
+        {
+            "image": "gakuensai2023/unei/anman.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ぴょんまん"
+        },
+        {
+            "image": "gakuensai2023/unei/barun.mng",
+            "creators": [
+                "konbu0202"
+            ],
+            "item_ids": [
+                "pink_stained_glass"
+            ],
+            "name": "うさぎの手持ち風船"
+        },
+        {
+            "image": "gakuensai2023/unei/flag_camera.mng",
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "写真優勝旗"
+        },
+        {
+            "image": "gakuensai2023/unei/flag_syutten.mng",
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "出店優勝旗"
+        },
+        {
+            "image": "gakuensai2023/unei/flag_texture1.mng",
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "3Dテクスチャ優勝旗"
+        },
+        {
+            "image": "gakuensai2023/unei/flag_texture2.mng",
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "アニメーションテクスチャ優勝旗"
+        },
+        {
+            "image": "gakuensai2023/unei/flag_texture3.mng",
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "2Dテクスチャ優勝旗"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_banner.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "ぴょん灯"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_garland.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "ぴょんガランド"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_mimi.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "聖兎カチューシャ"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_skin.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "シルビィ"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_skin_1.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "イングリット"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_skin_2.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "クリスチーナ"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_skin_3.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "カタリナ"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_skin_4.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "クルー"
+        },
+        {
+            "image": "gakuensai2023/unei/gakusai_wagon.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "聖兎ワゴン"
+        },
+        {
+            "image": "gakuensai2023/unei/giti_bucket.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "抹茶チョコレートポップコーン"
+        },
+        {
+            "image": "gakuensai2023/unei/hook.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "船長のフック"
+        },
+        {
+            "image": "gakuensai2023/unei/huruto.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "BIGアメリカンドッグ"
+        },
+        {
+            "image": "gakuensai2023/unei/kabuto.mng",
+            "item_ids": [
+                "gunpowder"
+            ],
+            "name": "騎士の兜"
+        },
+        {
+            "image": "gakuensai2023/unei/kagi.mng",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "マスター・セイピョン"
+        },
+        {
+            "image": "gakuensai2023/unei/kaizokubou.mng",
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "海賊帽"
+        },
+        {
+            "image": "gakuensai2023/unei/kane_bucket.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "バナナチョコポップコーン"
+        },
+        {
+            "image": "gakuensai2023/unei/katorasu.mng",
+            "item_ids": [
+                "wooden_sword"
+            ],
+            "name": "カトラス"
+        },
+        {
+            "image": "gakuensai2023/unei/ken.mng",
+            "item_ids": [
+                "iron_sword"
+            ],
+            "name": "騎士の剣"
+        },
+        {
+            "image": "gakuensai2023/unei/leather_layer_1a.mng",
+            "name": "うみ"
+        },
+        {
+            "image": "gakuensai2023/unei/leather_layer_1b.mng",
+            "name": "もり"
+        },
+        {
+            "image": "gakuensai2023/unei/magicbook_1.mng",
+            "item_ids": [
+                "shield"
+            ],
+            "name": "レプスの書"
+        },
+        {
+            "image": "gakuensai2023/unei/princess_asa_2d.mng",
+            "item_ids": [
+                "light_blue_dye"
+            ],
+            "name": "クリスチーナ"
+        },
+        {
+            "image": "gakuensai2023/unei/princess_mori_2d.mng",
+            "item_ids": [
+                "green_dye"
+            ],
+            "name": "イングリット"
+        },
+        {
+            "image": "gakuensai2023/unei/princess_umi_2d.mng",
+            "item_ids": [
+                "cyan_dye"
+            ],
+            "name": "シルビィ"
+        },
+        {
+            "image": "gakuensai2023/unei/princess_yu_2d.mng",
+            "item_ids": [
+                "orange_dye"
+            ],
+            "name": "カタリナ"
+        },
+        {
+            "image": "gakuensai2023/unei/pyomburger.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ぴょんバーガー"
+        },
+        {
+            "image": "gakuensai2023/unei/pyon_bucket.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "いちごミルクポップコーン"
+        },
+        {
+            "image": "gakuensai2023/unei/pyon_p.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "ぴこぴこピンク"
+        },
+        {
+            "image": "gakuensai2023/unei/pyon_w.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "ぴこぴこホワイト"
+        },
+        {
+            "image": "gakuensai2023/unei/ruhu.mng",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "ルフくん"
+        },
+        {
+            "image": "gakuensai2023/unei/ruhu_rea.mng",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "ルフくん(レア)"
+        },
+        {
+            "image": "gakuensai2023/unei/some_bucket.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "コンソメポップコーン"
+        },
+        {
+            "image": "gakuensai2023/unei/ta-ki-.mng",
+            "item_ids": [
+                "cooked_chicken"
+            ],
+            "name": "ターキーレッグ"
+        },
+        {
+            "image": "gakuensai2023/unei/tara_bucket.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "etc": [
+                "weight=100"
+            ],
+            "weight": "100",
+            "name": "梅バターポップコーン"
+        },
+        {
+            "image": "gakuensai2023/unei/tiara1.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "なりきりプリンセス(森)"
+        },
+        {
+            "image": "gakuensai2023/unei/tiara2.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "なりきりプリンセス(朝日)"
+        },
+        {
+            "image": "gakuensai2023/unei/tiara3.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "なりきりプリンセス(夕焼け)"
+        },
+        {
+            "image": "gakuensai2023/unei/tiara4.mng",
+            "item_ids": [
+                "sugar"
+            ],
+            "name": "なりきりプリンセス(海)"
+        },
+        {
+            "image": "gakuensai2023/unei/ticketblue.mng",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "投票券\\(3D)"
+        },
+        {
+            "image": "gakuensai2023/unei/ticketpink.mng",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "投票券\\(アニメーション\\)"
+        },
+        {
+            "image": "gakuensai2023/unei/ticketpurple.mng",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "投票券(出店)"
+        },
+        {
+            "image": "gakuensai2023/unei/ticketred.mng",
+            "item_ids": [
+                "paper"
+            ],
+            "name": "投票券\\(2D)"
+        },
+        {
+            "image": "gakuensai2023/unei/tokei.mng",
+            "item_ids": [
+                "diamond"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "聖兎印のコンパス"
+        },
+        {
+            "image": "gakuensai2023/unei/tokei2.mng",
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "聖兎印のコンパス"
+        },
+        {
+            "image": "gakuensai2023/unei/tyokotyurosu.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "チョコチュロピョ"
+        },
+        {
+            "image": "gakuensai2023/unei/tyurosunormal.mng",
+            "item_ids": [
+                "baked_potato"
+            ],
+            "name": "チュロピョ"
+        },
+        {
+            "image": "gakuensai2023/unei/usa.mng",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "ぴょんうさ"
+        },
+        {
+            "image": "gakuensai2023/unei/usagikariba-.mng",
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "ウサギカリバー"
+        },
+        {
+            "image": "gakuensai2023/unei/usa_rea.mng",
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "ぴょんうさ(レア)"
+        },
+        {
+            "image": "gakuensai2023/unei/yaki_bucket.mng",
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "キャラメルポップコーン"
+        },
+        {
+            "image": "gakuensai2023/wassao/fox/yuru_fox.mng",
+            "item_ids": [
+                "white_dye"
+            ],
+            "name": "きつねめん"
+        },
+        {
+            "image": "gakuensai2023/wassao/valorant/kj_ta/kj_ta.mng",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "ガラクタレット"
+        },
+        {
+            "image": "gakuensai2023/wassao/valorant/mido_con/midocon_1.mng",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "みどこん"
+        },
+        {
+            "image": "gakuensai2023/wassao/valorant/mido_con/midocon_2.mng",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "みどコン"
+        },
+        {
+            "image": "gakuensai2023/wassao/valorant/mido_con/midocon_3.mng",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "ミドコン"
+        },
+        {
+            "image": "gakuensai2023/wassao/valorant/sova_bow/sova_yumi.mng",
+            "item_ids": [
+                "bow"
+            ],
+            "name": "蕎麦弓"
+        },
+        {
+            "image": "gakuensai2023/wassao/valorant/so_do/sova.mng",
+            "item_ids": [
+                "amethyst_shard"
+            ],
+            "name": "ドロドローン"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/ahri/ahri.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "snowball"
+            ],
+            "name": "アーリのきゅんです玉"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/ahri_sippo/ahri_sippo.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "coal"
+            ],
+            "name": "アーリのしっぽ"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/akali/akali.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "KDA_アカリ"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/gauntlet/mainhand/ez_bow.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "bow"
+            ],
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main",
+            "name": "ガントレット"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/gauntlet/offhand/ez_bow.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "bow"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "ガントレット"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/ivurin_kda/ivurin.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "flint"
+            ],
+            "name": "KDA_イブリン"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/kaisa_kda/kaisa.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "stick"
+            ],
+            "name": "KDA_カイ"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/miaping/miaping.mng",
+            "creators": [
+                "bonzin_kun"
+            ],
+            "item_ids": [
+                "gold_ingot"
+            ],
+            "name": "miaping"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/oremoyatteta/ooo/shigaraki.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "iron_ingot"
+            ],
+            "name": "俺もやってた"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/ruinedkingblade/ruinedkingblade.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "diamond_sword"
+            ],
+            "name": "ルインドキングブレード"
+        },
+        {
+            "image": "gakuensai2023/yu_chocholic/teemohat/teemohat.mng",
+            "creators": [
+                "bonzin_kun,yu_chocoholic"
+            ],
+            "item_ids": [
+                "bone"
+            ],
+            "name": "ティーモのぼうし"
+        },
+        {
             "creators": [
                 "YODAOTA"
             ],
@@ -11807,6 +16095,762 @@
                 "bone"
             ],
             "name": "猫耳茶"
+        },
+        {
+            "image": "kyuusyougatu2024/akatyoutin.mng",
+            "creators": [
+                "aru1193"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "赤提灯"
+        },
+        {
+            "image": "kyuusyougatu2024/bati.mng",
+            "creators": [
+                "aru1193"
+            ],
+            "item_ids": [
+                "brown_dye"
+            ],
+            "name": "銅鑼のバチ"
+        },
+        {
+            "image": "kyuusyougatu2024/butamanjuu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ぶたまんじゅう"
+        },
+        {
+            "image": "kyuusyougatu2024/dora.mng",
+            "creators": [
+                "aru1193"
+            ],
+            "item_ids": [
+                "brown_dye"
+            ],
+            "name": "銅鑼"
+        },
+        {
+            "image": "kyuusyougatu2024/gonmanjuu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ごんまんじゅう"
+        },
+        {
+            "image": "kyuusyougatu2024/hagoita_gon.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ごん羽子板"
+        },
+        {
+            "image": "kyuusyougatu2024/hagoita_guti.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ぐち羽子板"
+        },
+        {
+            "image": "kyuusyougatu2024/hagoita_pyon.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ぴょん羽子板"
+        },
+        {
+            "image": "kyuusyougatu2024/hagoita_some.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "そめ羽子板"
+        },
+        {
+            "image": "kyuusyougatu2024/hagoita_tara.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "たら羽子板"
+        },
+        {
+            "image": "kyuusyougatu2024/hagoita_yaki.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "やき羽子板"
+        },
+        {
+            "image": "kyuusyougatu2024/hamaya.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "arrow"
+            ],
+            "name": "破魔矢"
+        },
+        {
+            "image": "kyuusyougatu2024/hukubukuro.mng",
+            "creators": [
+                "aru1193"
+            ],
+            "item_ids": [
+                "red_shulker_box"
+            ],
+            "name": "福袋"
+        },
+        {
+            "image": "kyuusyougatu2024/hukuojou.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "diamond"
+            ],
+            "name": "福の証"
+        },
+        {
+            "image": "kyuusyougatu2024/kine1.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "diamond_axe",
+                "netherite_axe"
+            ],
+            "name": "うさぎもちのきね"
+        },
+        {
+            "image": "kyuusyougatu2024/kumade.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "めでたい熊手"
+        },
+        {
+            "image": "kyuusyougatu2024/k_hyotan.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "honey_bottle"
+            ],
+            "name": "吸い込みひょうたん"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kami01.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "light_blue_dye"
+            ],
+            "name": "華タッセル-青-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kami02.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "pink_dye"
+            ],
+            "name": "華タッセル-桃-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kami03.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "yellow_dye"
+            ],
+            "name": "華タッセル-黄-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kami04.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "華タッセル-赤-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kami05.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "red_dye"
+            ],
+            "name": "華タッセル-紅-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kami06.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "pink_dye"
+            ],
+            "name": "扇子タッセル-桃-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kintoun.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "blaze_powder"
+            ],
+            "name": "もくもく金斗雲"
+        },
+        {
+            "image": "kyuusyougatu2024/k_kiseru.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "ぷかぷか煙管"
+        },
+        {
+            "image": "kyuusyougatu2024/k_koduti.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "diamond_pickaxe",
+                "netherite_pickaxe"
+            ],
+            "name": "振ったら増える打出の小槌"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou01.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=1"
+            ],
+            "stackSize": "1",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou02.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=2"
+            ],
+            "stackSize": "2",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou03.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=3"
+            ],
+            "stackSize": "3",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou04.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=4"
+            ],
+            "stackSize": "4",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou05.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=5"
+            ],
+            "stackSize": "5",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou06.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=6"
+            ],
+            "stackSize": "6",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou07.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=7"
+            ],
+            "stackSize": "7",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou08.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=8"
+            ],
+            "stackSize": "8",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_nyoibou09.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "bamboo"
+            ],
+            "etc": [
+                "stackSize=9"
+            ],
+            "stackSize": "9",
+            "name": "にょきにょき如意棒"
+        },
+        {
+            "image": "kyuusyougatu2024/k_ryudou.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "竜胴"
+        },
+        {
+            "image": "kyuusyougatu2024/k_ryuo.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "竜尾"
+        },
+        {
+            "image": "kyuusyougatu2024/k_ryutou.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "竜頭"
+        },
+        {
+            "image": "kyuusyougatu2024/k_sensu01.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "扇子-紅-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_sensu02.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "扇子-白-"
+        },
+        {
+            "image": "kyuusyougatu2024/k_uneituno.mng",
+            "creators": [
+                "kouno78"
+            ],
+            "item_ids": [
+                "firework_star"
+            ],
+            "name": "竜の使い"
+        },
+        {
+            "image": "kyuusyougatu2024/penmanjuu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ぺんまんじゅう"
+        },
+        {
+            "image": "kyuusyougatu2024/poti.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main",
+            "name": "金よこせ！"
+        },
+        {
+            "image": "kyuusyougatu2024/pyonmanjuu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "ぴょんまんじゅう"
+        },
+        {
+            "image": "kyuusyougatu2024/sabomanjuu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "さぼまんじゅう"
+        },
+        {
+            "image": "kyuusyougatu2024/saisembako.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "金よこせ！"
+        },
+        {
+            "image": "kyuusyougatu2024/somemanjuu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "そめまんじゅう"
+        },
+        {
+            "image": "kyuusyougatu2024/tako.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glistering_melon_slice"
+            ],
+            "name": "凧揚げ"
+        },
+        {
+            "image": "kyuusyougatu2024/taramanjuu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "cooked_beef"
+            ],
+            "name": "たらまんじゅう"
+        },
+        {
+            "image": "kyuusyougatu2024/tyoutin_bl.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "まんまるちょうちん(青)"
+        },
+        {
+            "image": "kyuusyougatu2024/tyoutin_g.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "まんまるちょうちん(緑)"
+        },
+        {
+            "image": "kyuusyougatu2024/tyoutin_o.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "まんまるちょうちん(橙)"
+        },
+        {
+            "image": "kyuusyougatu2024/tyoutin_pi.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "まんまるちょうちん(桃)"
+        },
+        {
+            "image": "kyuusyougatu2024/tyoutin_pu.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "まんまるちょうちん(紫)"
+        },
+        {
+            "image": "kyuusyougatu2024/tyoutin_r.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "まんまるちょうちん(赤)"
+        },
+        {
+            "image": "kyuusyougatu2024/tyoutin_y.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "glowstone_dust"
+            ],
+            "name": "まんまるちょうちん(黄)"
+        },
+        {
+            "image": "kyuusyougatu2024/usu.mng",
+            "creators": [
+                "akibako_111"
+            ],
+            "item_ids": [
+                "brown_shulker_box"
+            ],
+            "name": "うさぎもちのうす"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=main"
+            ],
+            "hand": "main",
+            "name": "ipattern:おふくびき\\*"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki1.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき43"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki2_1.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき13"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki2_2.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき08"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki2_3.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき97"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki3_1.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき34"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki3_2.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき58"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki3_3.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき29"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki3_4.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき73"
+        },
+        {
+            "image": "kyuusyougatu2024/ofukubiki/ofukubiki3_5.mng",
+            "creators": [
+                "natori_7106"
+            ],
+            "item_ids": [
+                "paper"
+            ],
+            "etc": [
+                "hand=off"
+            ],
+            "hand": "off",
+            "name": "おふくびき46"
         },
         {
             "item_ids": [
@@ -13345,6 +18389,9 @@
         },
         {
             "image": "natumaturi2023/kashinomi0384/candy_apple.mng",
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "item_ids": [
                 "apple",
                 "cooked_beef"
@@ -13353,6 +18400,9 @@
         },
         {
             "image": "natumaturi2023/kashinomi0384/candy_cotton.mng",
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "item_ids": [
                 "melon_slice",
                 "cooked_beef"
@@ -13361,6 +18411,9 @@
         },
         {
             "image": "natumaturi2023/kashinomi0384/candy_strb.mng",
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "item_ids": [
                 "apple",
                 "cooked_beef"
@@ -13368,6 +18421,9 @@
             "name": "最後までいちごたっぷり？いちご飴"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/icecream_oto.mng",
             "item_ids": [
                 "melon_slice",
@@ -13376,6 +18432,9 @@
             "name": "おとうふのメロン＆ジャモカアイス"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/icecream_risu.mng",
             "item_ids": [
                 "melon_slice",
@@ -13384,6 +18443,9 @@
             "name": "りすのクッキーアンドクリーム＆抹茶アイス"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/icecream_sph_1.mng",
             "item_ids": [
                 "cooked_beef"
@@ -13391,6 +18453,9 @@
             "name": "ぱんだいふく"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/icecream_sph_2.mng",
             "item_ids": [
                 "cooked_beef"
@@ -13398,6 +18463,9 @@
             "name": "もちもちぱんだいふく"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/icecream_sry.mng",
             "item_ids": [
                 "melon_slice",
@@ -13406,6 +18474,9 @@
             "name": "しろくまのぶどう＆バニラアイス"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/popsicle_oto.mng",
             "item_ids": [
                 "apple",
@@ -13414,6 +18485,9 @@
             "name": "おとうふのあいすきゃんでぃ"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/popsicle_risu.mng",
             "item_ids": [
                 "apple",
@@ -13422,6 +18496,9 @@
             "name": "りすのあいすきゃんでぃ"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/popsicle_sry.mng",
             "item_ids": [
                 "apple",
@@ -13430,6 +18507,9 @@
             "name": "しろくまのあいすきゃんでぃ"
         },
         {
+            "creators": [
+                "Otoufu_07,kashinomi0384"
+            ],
             "image": "natumaturi2023/kashinomi0384/ramune.mng",
             "item_ids": [
                 "potion"
@@ -14433,7 +19513,7 @@
             "category": "アクセサリー",
             "note": "",
             "item_ids": [
-                "baked_potato\t"
+                "baked_potato"
             ],
             "name": "じんべえヨーヨー"
         },
@@ -14660,7 +19740,7 @@
             "category": "アクセサリー",
             "note": "",
             "item_ids": [
-                "baked_potato\t"
+                "baked_potato"
             ],
             "name": "きょろきょろスーパーボール"
         },
@@ -15898,6 +20978,9 @@
             "name": "mochi"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/oonusa.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -15907,6 +20990,9 @@
             "name": "大幣"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/men/ra-men.mng",
             "event": "syougatu2023",
             "category": "食べ物",
@@ -15916,6 +21002,9 @@
             "name": "年越しラーメン"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/men/soba.mng",
             "event": "syougatu2023",
             "category": "食べ物",
@@ -15925,6 +21014,9 @@
             "name": "年越しそば"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/men/udon.mng",
             "event": "syougatu2023",
             "category": "食べ物",
@@ -15934,6 +21026,9 @@
             "name": "年越しうどん"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/obi/obi1.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -15943,6 +21038,9 @@
             "name": "帯飾り"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/obi/obi2.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -15952,6 +21050,9 @@
             "name": "帯飾り"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/ribon/hakama_ribon1.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -15961,6 +21062,9 @@
             "name": "袴飾り"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/ribon/hakama_ribon2.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -15970,6 +21074,9 @@
             "name": "袴飾り"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/ribon/hakama_ribon3.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -15979,6 +21086,9 @@
             "name": "袴飾り"
         },
         {
+            "creators": [
+                "akibako_111"
+            ],
             "image": "syougatu2023/akibako/ribon/hakama_ribon4.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -15988,6 +21098,9 @@
             "name": "袴飾り"
         },
         {
+            "creators": [
+                "do_nabe_"
+            ],
             "image": "syougatu2023/donabe/houki.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -15997,6 +21110,9 @@
             "name": "ほうき"
         },
         {
+            "creators": [
+                "do_nabe_"
+            ],
             "image": "syougatu2023/donabe/otosidama.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16007,6 +21123,9 @@
             "name": "お年玉"
         },
         {
+            "creators": [
+                "do_nabe_"
+            ],
             "image": "syougatu2023/donabe/sake-bin.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16016,6 +21135,9 @@
             "name": "割れたシャンパン"
         },
         {
+            "creators": [
+                "konbu0202"
+            ],
             "image": "syougatu2023/konbu/hakama_slim1.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16026,6 +21148,9 @@
             "name": "袴1"
         },
         {
+            "creators": [
+                "konbu0202"
+            ],
             "image": "syougatu2023/konbu/hakama_slim2.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16036,6 +21161,9 @@
             "name": "袴2"
         },
         {
+            "creators": [
+                "konbu0202"
+            ],
             "image": "syougatu2023/konbu/hakama_slim3.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16046,6 +21174,9 @@
             "name": "袴3"
         },
         {
+            "creators": [
+                "konbu0202"
+            ],
             "image": "syougatu2023/konbu/kimono_slim1.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16056,6 +21187,9 @@
             "name": "着物1"
         },
         {
+            "creators": [
+                "konbu0202"
+            ],
             "image": "syougatu2023/konbu/kimono_slim2.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16066,6 +21200,9 @@
             "name": "着物2"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/k_akatyoutin.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16075,6 +21212,9 @@
             "name": "赤提灯"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/k_kadomatsu.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16084,6 +21224,9 @@
             "name": "極限門松"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/k_kushiaka.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16093,6 +21236,9 @@
             "name": "くし飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/k_kushiki.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16102,6 +21248,9 @@
             "name": "くし飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/k_kushikuro.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16111,6 +21260,9 @@
             "name": "くし飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/k_zouri.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16120,6 +21272,9 @@
             "name": "草履"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/kanzashi/k_gonk.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16129,6 +21284,9 @@
             "name": "金霊飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/kanzashi/k_gutik.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16138,6 +21296,9 @@
             "name": "仙人掌飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/kanzashi/k_pyonk.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16147,6 +21308,9 @@
             "name": "兎飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/kanzashi/k_somek.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16156,6 +21320,9 @@
             "name": "筋肉飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/kanzashi/k_tarak.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16165,6 +21332,9 @@
             "name": "鱈子飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/kanzashi/k_yakik.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16174,6 +21344,9 @@
             "name": "企鵝飾り"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_ajigamotos.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16183,6 +21356,9 @@
             "name": "口福な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_gozens.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16192,6 +21368,9 @@
             "name": "祝い膳な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_hapikuris.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16201,6 +21380,9 @@
             "name": "至福な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_kings.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16210,6 +21392,9 @@
             "name": "帝な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_nijis.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16219,6 +21404,9 @@
             "name": "七福な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_ojousamas.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16228,6 +21416,9 @@
             "name": "おひいさまな扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_suiparas.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16237,6 +21428,9 @@
             "name": "銘菓な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_syukujos.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16246,6 +21440,9 @@
             "name": "風水開運な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_urenokoris.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16255,6 +21452,9 @@
             "name": "余物に福ありな扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_whites.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16264,6 +21464,9 @@
             "name": "四葉な扇子"
         },
         {
+            "creators": [
+                "kouno78"
+            ],
             "image": "syougatu2023/kouno78/sensu/k_yufukus.mng",
             "event": "syougatu2023",
             "category": "アクセサリー",
@@ -16273,6 +21476,9 @@
             "name": "富裕な扇子"
         },
         {
+            "creators": [
+                "mai_momiji"
+            ],
             "image": "syougatu2023/maimomiji/hakama_ki.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16283,6 +21489,9 @@
             "name": "袴黄"
         },
         {
+            "creators": [
+                "mai_momiji"
+            ],
             "image": "syougatu2023/maimomiji/hakama_mon.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16293,6 +21502,9 @@
             "name": "袴紋"
         },
         {
+            "creators": [
+                "mai_momiji"
+            ],
             "image": "syougatu2023/maimomiji/miko_aka.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16303,6 +21515,9 @@
             "name": "巫女赤"
         },
         {
+            "creators": [
+                "mai_momiji"
+            ],
             "image": "syougatu2023/maimomiji/miko_midori.mng",
             "event": "syougatu2023",
             "category": "アイテム",
@@ -16313,6 +21528,9 @@
             "name": "巫女緑"
         },
         {
+            "creators": [
+                "nattoAMAI"
+            ],
             "image": "syougatu2023/natto/kimonoyufuku.mng",
             "event": "syougatu2023",
             "category": "アイテム",

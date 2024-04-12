@@ -7,8 +7,11 @@ def properties2dic(f, f_path):
         ll = l.strip(' \n')
 
         # 空白文字やコメントを読み飛ばす
-        if ll == "" or ll[0] == '#':
+        if ll == "" or '=' not in ll:
             continue
+
+        if ll[0] == '#':
+            ll = ll.lstrip('#')
 
         # p=v
         p = ll.split('=')[0].strip(' \n')
