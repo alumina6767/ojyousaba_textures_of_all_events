@@ -1,0 +1,126 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "wither_skelton_head.png",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"id": "kesu",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0]}
+					]
+				},
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [0, 3, -0.5],
+					"rotate": [2, 0, 0],
+					"submodels": [
+						{
+							"id": "bone6",
+							"invertAxis": "xy",
+							"translate": [2.13542, -2, 0.51523],
+							"rotate": [-28.98794, -67.2654, 88.69827],
+							"boxes": [
+								{"coordinates": [-5.5, -1.16667, -8, 11, 2, 16], "textureOffset": [0, 38]},
+								{
+									"coordinates": [-4.5, -1.16667, -8, 9, 3, 16],
+									"uvNorth": [54, 56, 63, 59],
+									"uvEast": [38, 56, 54, 59],
+									"uvSouth": [79, 56, 88, 59],
+									"uvWest": [63, 56, 79, 59],
+									"uvUp": [63, 56, 54, 40],
+									"uvDown": [83, 0, 65, 32]
+								},
+								{
+									"coordinates": [-4.5, -1.16667, -9, 9, 2, 18],
+									"uvNorth": [56, 38, 65, 40],
+									"uvEast": [38, 38, 56, 40],
+									"uvSouth": [83, 38, 92, 40],
+									"uvWest": [65, 38, 83, 40],
+									"uvUp": [32, 34, 23, 16],
+									"uvDown": [9, 16, 0, 34]
+								}
+							],
+							"submodels": [
+								{
+									"id": "bone2",
+									"invertAxis": "xy",
+									"translate": [3.5, 58.03333, 21],
+									"boxes": [
+										{
+											"coordinates": [-8, -59.26003, -29, 9, 0, 16],
+											"uvNorth": [65, 24, 74, 24],
+											"uvEast": [49, 24, 65, 24],
+											"uvSouth": [90, 24, 99, 24],
+											"uvWest": [74, 24, 90, 24],
+											"uvUp": [35, 4, 32, 0],
+											"uvDown": [65, 0, 47, 32]
+										}
+									]
+								},
+								{
+									"id": "bone3",
+									"invertAxis": "xy",
+									"translate": [3.5, 57.83333, 21],
+									"boxes": [
+										{
+											"coordinates": [-8, -59.04003, -29, 9, 0, 16],
+											"uvNorth": [65, 24, 74, 24],
+											"uvEast": [49, 24, 65, 24],
+											"uvSouth": [90, 24, 99, 24],
+											"uvWest": [74, 24, 90, 24],
+											"uvUp": [47, 16, 38, 0],
+											"uvDown": [119, 0, 101, 32]
+										}
+									]
+								},
+								{
+									"id": "bone4",
+									"invertAxis": "xy",
+									"translate": [3.5, 57.73333, 21],
+									"boxes": [
+										{
+											"coordinates": [-8, -58.92003, -29, 9, 0, 16],
+											"uvNorth": [65, 24, 74, 24],
+											"uvEast": [49, 24, 65, 24],
+											"uvSouth": [90, 24, 99, 24],
+											"uvWest": [74, 24, 90, 24],
+											"uvUp": [35, 4, 32, 0],
+											"uvDown": [101, 0, 83, 32]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"bone.visible": "is_in_gui || is_in_hand",
+					"kesu.visible": "(!is_in_gui && !is_in_hand)",
+					"bone.rx": "if(is_in_gui,pi*(5.875),is_in_hand,pi*(5.685),pi)",
+					"bone.rz": "if(is_in_gui || is_in_hand,pi,0)",
+					"bone.ry": "if(is_in_gui || is_in_hand,pi*(5.25),0)",
+					"bone.tz": "if(is_in_hand,10,0)",
+					"bone.tx": "if(is_in_hand,12,0)",
+					"bone.sx": 0.75,
+					"bone.sy": 0.75,
+					"bone.sz": 0.75,
+					"bone4.visible": "pow(player_pos_x-870,2)+pow(player_pos_z+568,2)<100000 || (floor(player_pos_x) == 912 && floor(player_pos_y) == 58 && floor(player_pos_z) == 560)",
+					"bone3.visible": "pow(player_pos_x-870,2)+pow(player_pos_z+568,2)<9000",
+					"bone2.visible": "pow(player_pos_x-870,2)+pow(player_pos_z+568,2)<400"
+				}
+			]
+		}
+	]
+}
