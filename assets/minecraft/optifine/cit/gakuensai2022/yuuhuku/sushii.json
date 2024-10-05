@@ -2,7 +2,7 @@
 	"credit": "Made by re_veil with Blockbench",
 	"textures": {
 		"0": "./toro",
-		"1": "cit/rice",
+		"1": "item/cit/rice",
 		"particle": "./toro"
 	},
 	"elements": [

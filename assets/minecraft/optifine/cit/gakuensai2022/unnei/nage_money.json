@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "cit/nage_money", 
-		"particle": "cit/nage_money"
+		"1": "item/cit/nage_money",
+		"particle": "item/cit/nage_money"
 	},
 	"elements": [
 		{

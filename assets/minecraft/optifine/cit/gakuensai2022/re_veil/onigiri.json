@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "cit/rice",
+		"0": "item/cit/rice",
 		"1": "./nori",
 		"2": "./tara_mogu",
-		"particle": "cit/rice"
+		"particle": "item/cit/rice"
 	},
 	"elements": [
 		{
@@ -669,32 +669,24 @@
 			"name": "gohan",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 		},
 		{
 			"name": "nori",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [15, 16, 17, 18, 19, 20, 21]
 		},
 		{
 			"name": "group",
 			"origin": [6.05984, 6.13519, 11.425],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 8,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
 		}
 	]
